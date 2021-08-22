@@ -18,24 +18,26 @@
                 </button>
               </div>
             </div>
-            <div class="hidden space-x-8 md:flex md:ml-10">
-              <a href="#" class="text-base font-medium text-white hover:text-gray-300">Product</a>
-
-              <a href="#" class="text-base font-medium text-white hover:text-gray-300">Features</a>
-
-              <a href="#" class="text-base font-medium text-white hover:text-gray-300">Marketplace</a>
-
-              <a href="#" class="text-base font-medium text-white hover:text-gray-300">Company</a>
-            </div>
+            <ul class="hidden space-x-8 md:flex md:ml-10">
+              <li 
+                v-for="item in menus"
+                :key="item.id"
+              >
+                <NuxtLink
+                  class="text-base font-medium text-white hover:text-gray-300"
+                  :to="'/' + item.page"
+                >{{ item.text }}</NuxtLink>
+              </li>
+            </ul>
           </div>
-          <div class="hidden md:flex md:items-center md:space-x-6">
+          <!--div class="hidden md:flex md:items-center md:space-x-6">
             <a href="#" class="text-base font-medium text-white hover:text-gray-300">
               Log in
             </a>
             <a href="#" class="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700">
               Start free trial
             </a>
-          </div>
+          </div-->
         </nav>
       </div>
 
@@ -86,3 +88,37 @@
       </div>
     </header>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      scrollY: 0,
+      isOpen: false,
+      menus: [
+        {
+          id: 1,
+          text: "Research",
+          page: "research"
+        },
+        {
+          id: 2,
+          text: "Publications",
+          page: "publications"
+        },
+        {
+          id: 4,
+          text: "People",
+          page: "people"
+        },
+        {
+          id: 5,
+          text: "Contact",
+          page: "contact"
+        }
+      ]
+    };
+  },
+
+}
+</script>
