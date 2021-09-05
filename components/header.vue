@@ -4,7 +4,7 @@
         <nav class="relative max-w-7xl mx-auto flex items-center justify-between px-4 py-4 sm:px-6" aria-label="Global">
           <div class="flex items-center flex-1">
             <div class="flex items-center justify-between w-full md:w-auto">
-              <a href="#">
+              <a href="/">
                 <span class="sr-only">Workflow</span>
                 <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-teal-200-cyan-400.svg" alt="">
               </a>
@@ -69,19 +69,13 @@
           </div>
           <div class="pt-5 pb-6">
             <div class="px-2 space-y-1">
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">Product</a>
-
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">Features</a>
-
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">Marketplace</a>
-
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">Company</a>
-            </div>
-            <div class="mt-6 px-5">
-              <a href="#" class="block text-center w-full py-3 px-4 rounded-md shadow bg-gradient-to-r from-teal-500 to-cyan-600 text-white font-medium hover:from-teal-600 hover:to-cyan-700">Start free trial</a>
-            </div>
-            <div class="mt-6 px-5">
-              <p class="text-center text-base font-medium text-gray-500">Existing customer? <a href="#" class="text-gray-900 hover:underline">Login</a></p>
+              <NuxtLink
+                class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50"
+                v-for="item in menus"
+                :key="item.id"
+                :to="'/' + item.page"
+                >{{ item.text }}
+                </NuxtLink>
             </div>
           </div>
         </div>
@@ -108,14 +102,14 @@ export default {
           page: "publications"
         },
         {
+          id: 3,
+          text: "Contact",
+          page: "contact"
+        },
+        {
           id: 4,
           text: "People",
           page: "people"
-        },
-        {
-          id: 5,
-          text: "Contact",
-          page: "contact"
         }
       ]
     };
