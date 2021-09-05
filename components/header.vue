@@ -1,7 +1,7 @@
 <template>
     <header class="relative">
-      <div class="bg-gray-900 pt-6">
-        <nav class="relative max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6" aria-label="Global">
+      <div class="bg-gray-900">
+        <nav class="relative max-w-7xl mx-auto flex items-center justify-between px-4 py-4 sm:px-6" aria-label="Global">
           <div class="flex items-center flex-1">
             <div class="flex items-center justify-between w-full md:w-auto">
               <a href="#">
@@ -91,6 +91,7 @@
 
 <script>
 export default {
+  name: "Header",
   data() {
     return {
       scrollY: 0,

@@ -1,0 +1,9 @@
+<template>
+    <img class="h-10" src="https://tailwindui.com/img/logos/workflow-mark-gray-300.svg" alt="Company name">
+</template>
+
+<script>
+export default {
+    name: "Logo"
+}
+</script>
