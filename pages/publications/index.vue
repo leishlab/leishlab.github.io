@@ -16,7 +16,7 @@
           <p class="text-sm text-gray-500">
             <time :datetime="item.datetime">{{ item.date }}</time>
           </p>
-          <a href="#" class="mt-2 block">
+          <a :href="item.href" class="mt-2 block">
             <p class="text-xl font-semibold text-gray-900">
               {{ item.title }}
             </p>
@@ -26,7 +26,7 @@
           </a>
           <div class="mt-3">
             <a :href="item.href" class="text-base font-semibold text-indigo-600 hover:text-indigo-500">
-              Read full story
+              {{item.href}}
             </a>
           </div>
         </div>
