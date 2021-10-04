@@ -41,7 +41,7 @@ export default {
         return {
             papers : [
                 {
-                    title: 'Boost your conversion rate',
+                    title: 'Boost your conversion rate xxx',
                     href: '#',
                     description:
                     'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
