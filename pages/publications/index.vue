@@ -41,10 +41,10 @@ export default {
         return {
             papers : [
                 {
-                    title: 'Boost your conversion rate xxx',
-                    href: '#',
+                    title: 'Iron and heme metabolism at the Leishmania-host interface',
+                    href: 'https://doi.org/10.1016/j.pt.2019.12.010',
                     description:
-                    'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
+                    'Maria Fernanda Laranjeira da Silva, Iqbal Hamza, José M Pérez-Victoria',
                     date: 'Mar 16, 2020',
                     datetime: '2020-03-16',
                 },
