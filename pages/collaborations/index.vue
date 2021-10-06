@@ -17,13 +17,33 @@ export default {
             people : [
                 {
                     id: 1,
-                    name: 'Maria Fernanda Laranjeira',
-                    role: 'Research Scientist / USP',
+                    name: 'Lucile Maria Floeter-Winter',
+                    role: 'Professor at the Institute of Bioscience of the University of São Paulo',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-                    imageAlt: 'Maria Fernanda Laranjeira | Research Scientist @ USP'                
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    imageAlt: 'Lucile Maria Floeter-Winter | Professor @ USP'                
+                },
+                {
+                    id: 2,
+                    name: 'Juliana Ide Aoki',
+                    role: 'Post-Doc at the Institute of Bioscience of the University of São Paulo',
+                    twitterUrl: 'https://twitter.com',
+                    linkedinUrl: 'https://linkedin.com',
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    imageAlt: 'Juliana Ide Aoki | Post-Doc @ USP'                
+                },
+                {
+                    id: 3,
+                    name: 'Ricardo Andrade Zampieri',
+                    role: 'Researcher at the Institute of Bioscience of the University of São Paulo',
+                    twitterUrl: 'https://twitter.com',
+                    linkedinUrl: 'https://linkedin.com',
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'                
                 }
             ]
         }
