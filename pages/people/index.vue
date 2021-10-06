@@ -42,7 +42,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540923/Romario_hfrf9m.jpg',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544219/Romario_hfrf9m.jpg',
                     imageAlt: 'Romario Lopes Boy | MS Student @ USP' 
                 },                   
                 {
@@ -52,7 +52,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Giovana_zju6pm.jpg',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544270/Giovana_zju6pm.jpg',
                     imageAlt: 'Giovana Aquino Parreira | Undergrad Student @ USP'                
                 },
                 {
