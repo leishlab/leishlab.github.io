@@ -42,7 +42,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540923/Romario_hfrf9m.jpg',
                     imageAlt: 'Romario Lopes Boy | MS Student @ USP' 
                 },                   
                 {
@@ -52,7 +52,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Giovana_zju6pm.jpg',
                     imageAlt: 'Giovana Aquino Parreira | Undergrad Student @ USP'                
                 },
                 {
@@ -62,7 +62,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Marco_nk6zbe.jpg',
                     imageAlt: 'Marco Antonio Mendes Gomes | Undergrad Student @ USP' 
                 },
                 {
@@ -102,7 +102,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Ricardo_lodike.jpg',
                     imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
                 }
             ]
