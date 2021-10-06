@@ -17,7 +17,8 @@
                   <span class="mt-4 pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-teal-200 to-cyan-400 sm:pb-5 text-2xl sm:text-4xl xl:text-4xl">Leishmaniases Research</span>
                 </h1>
                 <p class="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
-                  Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui Lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat.
+                  Neglected tropical diseases such as leishmaniasis have a huge impact on global health but are under researched and under-funded.Treatment and diagnostic techniques remain expensive and difficult to implement in remote areas. 
+                  Our goal is to further understand Leishmania pathogenesis to define better therapeutic targets for leishmaniasis treatment.
                 </p>
               </div>
             </div>
