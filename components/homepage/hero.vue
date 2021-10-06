@@ -13,7 +13,7 @@
                   </svg>
                 </NuxtLink-->
                 <h1 class="mt-4 tracking-tight font-extrabold text-white sm:mt-5 lg:mt-6">
-                  <span class="block text-4xl sm:text-6xl xl:text-6xl">Laranjeira's Lab</span>
+                  <span class="block text-4xl sm:text-6xl xl:text-6xl">Laranjeira Lab</span>
                   <span class="mt-4 pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-teal-200 to-cyan-400 sm:pb-5 text-2xl sm:text-4xl xl:text-4xl">Leishmaniases Research</span>
                 </h1>
                 <p class="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
