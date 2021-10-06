@@ -12,9 +12,9 @@
                     <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                   </svg>
                 </NuxtLink-->
-                <h1 class="mt-4 text-4xl tracking-tight font-extrabold text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl">
-                  <span class="block">Laranjeira's Lab</span>
-                  <span class="pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-teal-200 to-cyan-400 sm:pb-5">Leishmaniases Research</span>
+                <h1 class="mt-4 tracking-tight font-extrabold text-white sm:mt-5 lg:mt-6">
+                  <span class="block text-4xl sm:text-6xl xl:text-6xl">Laranjeira's Lab</span>
+                  <span class="pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-teal-200 to-cyan-400 sm:pb-5 text-2xl sm:text-4xl xl:text-4xl">Leishmaniases Research</span>
                 </h1>
                 <p class="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
                   Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui Lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat.
