@@ -44,7 +44,7 @@ export default {
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     imageAlt: 'Romario Lopes Boy | MS Student @ USP' 
-                    ,                   
+                },                   
                 {
                     id: 4,
                     name: 'Giovana Aquino Parreira',
@@ -64,7 +64,7 @@ export default {
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     imageAlt: 'Marco Antonio Mendes Gomes | Undergrad Student @ USP' 
-                    ,
+                },
                 {
                     id: 6,
                     name: 'Lucas Felipe Almeida Athayde',
@@ -74,6 +74,37 @@ export default {
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
+                },
+                {
+                    id: 7,
+                    name: 'Lucile Maria Floeter-Winter',
+                    role: 'Professor at the Institute of Bioscience of the University of São Paulo',
+                    twitterUrl: 'https://twitter.com',
+                    linkedinUrl: 'https://linkedin.com',
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    imageAlt: 'Lucile Maria Floeter-Winter | Professor @ USP'                
+                },
+                {
+                    id: 8,
+                    name: 'Juliana Ide Aoki',
+                    role: 'Post-Doc at the Institute of Bioscience of the University of São Paulo',
+                    twitterUrl: 'https://twitter.com',
+                    linkedinUrl: 'https://linkedin.com',
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    imageAlt: 'Juliana Ide Aoki | Post-Doc @ USP'                
+                },
+                {
+                    id: 9,
+                    name: 'Ricardo Andrade Zampieri',
+                    role: 'Researcher at the Institute of Bioscience of the University of São Paulo',
+                    twitterUrl: 'https://twitter.com',
+                    linkedinUrl: 'https://linkedin.com',
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
+                }
             ]
         }
     }
