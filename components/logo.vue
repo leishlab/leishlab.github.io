@@ -1,5 +1,5 @@
 <template>
-    <img class="h-10" src="https://tailwindui.com/img/logos/workflow-mark-gray-300.svg" alt="Company name">
+    <img class="h-10" src="https://res.cloudinary.com/dppi8hoxw/image/upload/v1633484740/Logo_FeLAB_preto_2_djpn3c.jpg" alt="Company name">
 </template>
 
 <script>
