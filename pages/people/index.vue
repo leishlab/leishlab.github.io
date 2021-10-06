@@ -22,7 +22,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
-                    'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     imageAlt: 'Maria Fernanda Laranjeira | Research Scientist @ USP'                
                 }
             ]
