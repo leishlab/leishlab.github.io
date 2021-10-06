@@ -13,8 +13,8 @@
                   </svg>
                 </NuxtLink>
                 <h1 class="mt-4 text-4xl tracking-tight font-extrabold text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl">
-                  <span class="block">A better way to</span>
-                  <span class="pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-teal-200 to-cyan-400 sm:pb-5">ship web apps</span>
+                  <span class="block">Laranjeira's Lab</span>
+                  <span class="pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-teal-200 to-cyan-400 sm:pb-5">Leishmaniases Research</span>
                 </h1>
                 <p class="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
                   Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui Lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat.
