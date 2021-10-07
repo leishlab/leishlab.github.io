@@ -17,8 +17,8 @@ export default {
             people : [
                 {
                     id: 1,
-                    name: 'Maria Fernanda Laranjeira',
-                    role: 'Research Scientist / USP',
+                    name: 'Maria Fernanda Laranjeira-Silva',
+                    role: 'Research Associate / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -28,7 +28,7 @@ export default {
                 {
                     id: 2,
                     name: 'Ahyun Avery Hong',
-                    role: 'PhD Student at the Institute of Bioscience of the University of São Paulo',
+                    role: 'PhD Student / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -38,7 +38,7 @@ export default {
                 {
                     id: 3,
                     name: 'Romario Lopes Boy',
-                    role: 'MS Student at the Institute of Bioscience of the University of São Paulo',
+                    role: 'MS Student / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -48,7 +48,7 @@ export default {
                 {
                     id: 4,
                     name: 'Giovana Aquino Parreira',
-                    role: 'Undergrad Student at the Institute of Bioscience of the University of São Paulo',
+                    role: 'Undergrad Student / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -58,7 +58,7 @@ export default {
                 {
                     id: 5,
                     name: 'Marco Antonio Mendes Gomes',
-                    role: 'Undergrad Student at the Institute of Bioscience of the University of São Paulo',
+                    role: 'Undergrad Student / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -68,7 +68,7 @@ export default {
                 {
                     id: 6,
                     name: 'Lucas Felipe Almeida Athayde',
-                    role: 'MS Student at the Institute of Bioscience of the University of São Paulo',
+                    role: 'MS Student / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -78,7 +78,7 @@ export default {
                 {
                     id: 7,
                     name: 'Lucile Maria Floeter-Winter',
-                    role: 'Professor at the Institute of Bioscience of the University of São Paulo',
+                    role: 'Professor / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -88,7 +88,7 @@ export default {
                 {
                     id: 8,
                     name: 'Juliana Ide Aoki',
-                    role: 'Post-Doc at the Institute of Bioscience of the University of São Paulo',
+                    role: 'Post-Doc / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
@@ -98,7 +98,7 @@ export default {
                 {
                     id: 9,
                     name: 'Ricardo Andrade Zampieri',
-                    role: 'Researcher at the Institute of Bioscience of the University of São Paulo',
+                    role: 'Researcher / USP',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     imageUrl:
