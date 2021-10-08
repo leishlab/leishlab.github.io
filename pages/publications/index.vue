@@ -181,60 +181,60 @@ export default {
                 "datetime": "January 2016"
               },
               {
-                "title": "Capillary electrophoresis reveals polyamine metabolism modulation in leishmania (leishmania) amazonensis<\/i> wild type and arginase knockout mutants under arginine starvation",
-                "href": "https://doi.org/10.1002/elps.201500114",
-                "description": "Emerson A. Castilho-martins, Gisele A. B. Canuto, Sandra Marcia Muxel, Maria Fernanda Laranjeira da Silva, Lucile Maria Floeter-winter, Carmen del Aguila, Ãngeles Lã“pez-gonzãlvez, Coral Barbas",
-                "date": "2015",
-                "datetime": "2015"
+                "title": "Melatonin attenuates Leishmania (L.) amazonensis infection by modulating arginine metabolism",
+                "href": "https://doi.org/10.1111/jpi.12279",
+                "description": "Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Sandra M. Muxel, Lucile Maria Floeter-Winter, Regina P. Markus",
+                "date": "September 2015",
+                "datetime": "September 2015"
               },
               {
-                "title": "Melatonin attenuates infection by modulating arginine metabolism",
-                "href": "https://doi.org/10.1111/jpi.12279",
-                "description": "Maria Fernanda Laranjeira da Silva, Ricardo A. Zampieri, Sandra M. Muxel, Lucile Maria Floeter-winter, Regina P. Markus",
-                "date": "2015",
-                "datetime": "2015"
+                "title": "Capillary electrophoresis reveals polyamine metabolism modulation in Leishmania (Leishmania) amazonensis wild-type and arginase knockout mutants under arginine starvation",
+                "href": "https://doi.org/10.1002/elps.201500114",
+                "description": "Emerson A. Castilho-Martins, Gisele A. B. Canuto, Sandra M. Muxel, Maria Fernanda Laranjeira-Silva, Lucile Maria Floeter-Winter, Carmen del Aguila, Ángeles López-Gonzálvez, Coral Barbas",
+                "date": "July 2015",
+                "datetime": "July 2015"
               },
               {
                 "title": "Leishmania amazonensis arginase compartmentalization in the glycosome is important for parasite infectivity",
                 "href": "https://doi.org/10.1371/journal.pone.0034022",
-                "description": "Maria Fernanda Laranjeira da Silva, Ricardo Andrade Zampieri, Sandra M. Muxel, Stephen M. Beverley, Lucile M. Floeter-winter",
-                "date": "2012",
-                "datetime": "2012"
+                "description": "Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Sandra M. Muxel, Stephen M. Beverley, Lucile M. Floeter-Winter",
+                "date": "March 2012",
+                "datetime": "March 2012"
               },
               {
-                "title": "Footprints of a trypanosomatid rna world: pre-small subunit rrna processing by spliced leader addition trans-splicing",
+                "title": "Footprints of a trypanosomatid RNA world: pre-small subunit rRNA processing by spliced leader addition trans-splicing",
                 "href": "https://doi.org/10.1590/s0074-02762012000400013",
-                "description": "Mario Mayer, Mg dos Santos, Maria Fernanda Laranjeira da Silva, Lm Floeter-winter",
-                "date": "2012",
-                "datetime": "2012"
+                "description": "Mario Mayer, Marco G. dos Santos, Maria Fernanda Laranjeira-Silva, Lucile Maria Floeter-Winter",
+                "date": "June 2012",
+                "datetime": "June 2012"
               },
               {
-                "title": "Axenic leishmania amazonensis promastigotes sense both the external and internal arginine pool distinctly regulating the two transporter-coding genes",
+                "title": "Axenic Leishmania amazonensis promastigotes sense both the external and internal arginine pool distinctly regulating the two transporter-coding genes",
                 "href": "https://doi.org/10.1371/journal.pone.0027818",
-                "description": "Emerson A. Castilho-martins, Maria Fernanda Laranjeira da Silva, Marcos G. dos Santos, Sandra M. Muxel, Lucile M. Floeter-winter",
-                "date": "2011",
-                "datetime": "2011"
+                "description": "Emerson A. Castilho-Martins, Maria Fernanda Laranjeira-Silva, Marcos G. dos Santos, Sandra M. Muxel, Lucile M. Floeter-Winter",
+                "date": "November 2011",
+                "datetime": "November 2011"
               },
               {
-                "title": "Correlation of meta 1 expression with culture stage, cell morphology and infectivity in leishmania (leishmania) amazonensis promastigotes",
+                "title": "Correlation of meta 1 expression with culture stage, cell morphology and infectivity in Leishmania (Leishmania) amazonensis promastigotes",
                 "href": "https://doi.org/10.1590/s0074-02762011000200012",
-                "description": "Mg dos Santos, Maria Fernanda Laranjeira da Silva, Ra Zampieri, Rm Lafraia, Lucile Maria Floeter-winter",
-                "date": "2011",
-                "datetime": "2011"
+                "description": "Marcos G. dos Santos, Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Rafaella M. Lafraia, Lucile Maria Floeter-Winter",
+                "date": "March 2011",
+                "datetime": "March 2011"
               },
               {
-                "title": "Biochemical characterization of serine transport in leishmania (leishmania) amazonensis",
+                "title": "Biochemical characterization of serine transport in Leishmania (Leishmania) amazonensis",
                 "href": "https://doi.org/10.1016/j.molbiopara.2008.11.001",
-                "description": "Mg dos Santos, Ls Paes, Ra Zampieri, Maria Fernanda Laranjeira da Silva, Am Silber, Lucile Maria Floeter-winter",
-                "date": "2009",
-                "datetime": "2009"
+                "description": "Marcos G. dos Santos, Lisvane S. Paes, Ricardo A. Zampieri, Maria Fernanda Laranjeira-Silva, Ariel M. Silber, Lucile Maria Floeter-Winter",
+                "date": "February 2009",
+                "datetime": "February 2009"
               },
               {
-                "title": "Biochemical and biophysical properties of a highly active recombinant arginase from leishmania (leishmania) amazonensis and subcellular localization of native enzyme.",
+                "title": "Biochemical and biophysical properties of a highly active recombinant arginase from Leishmania (Leishmania) amazonensis and subcellular localization of native enzyme.",
                 "href": "https://doi.org/10.1016/j.molbiopara.2008.02.011",
-                "description": "Edson Roberto da Silva, Maria Fernanda Laranjeira da Silva, Hannes Fischer, Renato A. Mortara, Mario Gustavo Mayer, Karine Framesqui, Ariel Mariano Sielber, Lucile Maria Floeter-winter",
-                "date": "2008",
-                "datetime": "2008"
+                "description": "Edson R. da Silva, Maria Fernanda Laranjeira-Silva, Hannes Fischer, Renato A. Mortara, Mario G. Mayer, Karine Framesqui, Ariel M. Sielber, Lucile Maria Floeter-Winter",
+                "date": "June 2008",
+                "datetime": "June 2008"
               }
             ]
         }
