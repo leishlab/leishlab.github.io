@@ -195,6 +195,13 @@ export default {
                 "datetime": "July 2015"
               },
               {
+                "title": "Arginase in Leishmania",
+                "href": "https://doi.org/10.1007/978-94-007-7305-9_4",
+                "description": "Maria Fernanda Laranjeira-Silva, Lucile M. Floeter-Winter",
+                "date": "October 2013",
+                "datetime": "October 2013"
+              },
+              {
                 "title": "Leishmania amazonensis arginase compartmentalization in the glycosome is important for parasite infectivity",
                 "href": "https://doi.org/10.1371/journal.pone.0034022",
                 "description": "Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Sandra M. Muxel, Stephen M. Beverley, Lucile M. Floeter-Winter",
