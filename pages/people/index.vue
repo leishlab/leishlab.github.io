@@ -20,9 +20,9 @@ export default {
                     name: 'Maria Fernanda Laranjeira-Silva',
                     role: 'Research Associate / USP',
                     twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/maria-fernanda-laranjeira-da-silva-91a14526/',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634045086/MFLS_FeLAB_foto_p3dbbm.jpg',
                     imageAlt: 'Maria Fernanda Laranjeira | Research Scientist @ USP'                
                 },                   
                 {
@@ -30,7 +30,7 @@ export default {
                     name: 'Ahyun Avery Hong',
                     role: 'PhD Student / USP',
                     twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/ahyun-avery-hong/',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     imageAlt: 'Ahyun Avery Hong | PhD Student @ USP'                
@@ -40,7 +40,7 @@ export default {
                     name: 'Romario Lopes Boy',
                     role: 'MS Student / USP',
                     twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/rom%C3%A1rio-lopes-boy-44113674/',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544219/Romario_hfrf9m.jpg',
                     imageAlt: 'Romario Lopes Boy | MS Student @ USP' 
@@ -80,9 +80,9 @@ export default {
                     name: 'Lucile Maria Floeter-Winter',
                     role: 'Professor / USP',
                     twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/lucile-floeter-winter-b5b91a48/',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634045145/Lucile_FeLAB_foto_xvtn8b.jpg',
                     imageAlt: 'Lucile Maria Floeter-Winter | Professor @ USP'                
                 },
                 {
@@ -90,7 +90,7 @@ export default {
                     name: 'Juliana Ide Aoki',
                     role: 'Post-Doc / USP',
                     twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/juliana-aoki-880669153/',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     imageAlt: 'Juliana Ide Aoki | Post-Doc @ USP'                
@@ -100,7 +100,7 @@ export default {
                     name: 'Ricardo Andrade Zampieri',
                     role: 'Researcher / USP',
                     twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/ricardo-andrade-zampieri-6440274a/',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Ricardo_lodike.jpg',
                     imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
