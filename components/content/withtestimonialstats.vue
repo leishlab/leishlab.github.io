@@ -51,8 +51,8 @@
 
         <div class="mt-10">
             <NuxtLink 
-                :to="'/contact'"
-                class="text-base font-medium text-indigo-600"> Learn more about how we're changing the world <span aria-hidden="true">&rarr;</span> </NuxtLink>
+                :to="'/publications'"
+                class="text-base font-medium text-indigo-600"> Learn more about our results <span aria-hidden="true">&rarr;</span> </NuxtLink>
         </div>
       </div>
     </div>
