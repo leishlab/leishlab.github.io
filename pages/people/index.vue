@@ -32,7 +32,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://www.linkedin.com/in/ahyun-avery-hong/',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634046365/Avery_feLAB_yc7iwc.jpg',
                     imageAlt: 'Ahyun Avery Hong | PhD Student @ USP'                
                 },
                 {
