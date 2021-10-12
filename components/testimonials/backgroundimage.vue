@@ -4,9 +4,9 @@
         <div class="absolute inset-0 bg-indigo-500 mix-blend-multiply" />
         <div class="absolute inset-0 bg-gradient-to-t from-indigo-600 via-indigo-600 opacity-90" />
         <div class="relative px-8">
-            <div>
+            <!--div>
             <img class="h-12" src="https://tailwindui.com/img/logos/workcation.svg?color=white" alt="Workcation" />
-            </div>
+            </div-->
             <blockquote class="mt-8">
             <div class="relative text-lg font-medium text-white md:flex-grow">
                 <svg class="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-400" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
