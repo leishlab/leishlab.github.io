@@ -15,10 +15,10 @@
       <!--Testimonial/-->
 
       <!-- Blog section -->
-      <BlogSection/>
+      <!--BlogSection/-->
 
       <!-- CTA Section -->
-      <CTASection1/>
+      <!--CTASection1/-->
 
     </main>  
   </div>
@@ -29,17 +29,17 @@
 //import FeatureGrid from "@/components/homepage/featuregrid";
 import Hero from "@/components/homepage/hero";
 //import Testimonial from "@/components/homepage/testimonial";
-import CTASection1 from "@/components/homepage/ctasection1";
-import BlogSection from "@/components/homepage/blogsection";
+//import CTASection1 from "@/components/homepage/ctasection1";
+//import BlogSection from "@/components/homepage/blogsection";
 
 export default {
   components: {
     //FeatureScreenShot,
     //FeatureGrid,
-    Hero,
+    Hero//,
     //Testimonial,
-    BlogSection,
-    CTASection1
+    //BlogSection,
+    //CTASection1
   }
 }
 </script>
