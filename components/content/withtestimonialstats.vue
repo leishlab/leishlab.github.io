@@ -29,7 +29,7 @@
         <!-- Content area -->
         <div class="pt-12 sm:pt-16 lg:pt-20">
           <h1 class="text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl">
-            On a mission to empower teams
+            Ongoing Research Projects
           </h1>
           <div class="mt-6 text-gray-500 space-y-6">
             <p class="text-lg">
