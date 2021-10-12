@@ -105,7 +105,7 @@ export default {
           id: 3,
           text: "People",
           page: "people"
-        }
+        },
         {
           id: 4,
           text: "Contact",
