@@ -44,9 +44,19 @@ export default {
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544219/Romario_hfrf9m.jpg',
                     imageAlt: 'Romario Lopes Boy | MS Student @ USP' 
-                },                   
+                }, 
                 {
                     id: 4,
+                    name: 'Lucas Felipe Almeida Athayde',
+                    role: 'MS Student / USP',
+                    twitterUrl: 'https://twitter.com',
+                    linkedinUrl: 'https://linkedin.com',
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
+                },
+                {
+                    id: 5,
                     name: 'Giovana Aquino Parreira',
                     role: 'Undergrad Student / USP',
                     twitterUrl: 'https://twitter.com',
@@ -56,7 +66,7 @@ export default {
                     imageAlt: 'Giovana Aquino Parreira | Undergrad Student @ USP'                
                 },
                 {
-                    id: 5,
+                    id: 6,
                     name: 'Marco Antonio Mendes Gomes',
                     role: 'Undergrad Student / USP',
                     twitterUrl: 'https://twitter.com',
@@ -64,16 +74,6 @@ export default {
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Marco_nk6zbe.jpg',
                     imageAlt: 'Marco Antonio Mendes Gomes | Undergrad Student @ USP' 
-                },
-                {
-                    id: 6,
-                    name: 'Lucas Felipe Almeida Athayde',
-                    role: 'MS Student / USP',
-                    twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
-                    imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
                 },
                 {
                     id: 7,
