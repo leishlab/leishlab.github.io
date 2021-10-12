@@ -18,8 +18,8 @@ export default {
                 {
                     id: 1,
                     name: 'Roberto K. Salinas',
-                    role: 'Professor at the Institute of Chemistry of the University of São Paulo',
-                    twitterUrl: 'https://twitter.com',
+                    role: 'Professor - Institute of Chemistry of the University of São Paulo',
+                    lattesUrl: 'https://lattes.cnpq.br/6171517695707255',
                     linkedinUrl: 'https://linkedin.com',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
@@ -28,8 +28,8 @@ export default {
                 {
                     id: 2,
                     name: 'Norma W. Andrews',
-                    role: 'Professor at the University of Maryland',
-                    twitterUrl: 'https://twitter.com',
+                    role: 'Professor - University of Maryland',
+                    //twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
@@ -38,8 +38,8 @@ export default {
                 {
                     id: 3,
                     name: 'Iqbal Hamza',
-                    role: 'Professor at the University of Maryland',
-                    twitterUrl: 'https://twitter.com',
+                    role: 'Professor - University of Maryland',
+                    //twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',

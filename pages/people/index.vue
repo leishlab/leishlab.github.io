@@ -19,7 +19,7 @@ export default {
                     id: 1,
                     name: 'Maria Fernanda Laranjeira-Silva',
                     role: 'Research Associate / USP',
-                    twitterUrl: 'https://twitter.com',
+                    lattesUrl: 'https://lattes.cnpq.br/5423200994091318',
                     linkedinUrl: 'https://www.linkedin.com/in/maria-fernanda-laranjeira-da-silva-91a14526/',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634053130/MFLS_FeLAB_foto_square_fryjvc.jpg',
