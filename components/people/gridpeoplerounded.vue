@@ -9,7 +9,7 @@
         <ul role="list" class="mx-auto space-y-16 sm:grid sm:grid-cols-2 sm:gap-16 sm:space-y-0 lg:grid-cols-3 lg:max-w-5xl">
           <li v-for="person in people" :key="person.id">
             <div class="space-y-6">
-              <img class="mx-auto h-40 w-40 rounded-full xl:w-56 xl:h-56" :src="person.imageUrl" :alt="person.imageAlt" />
+              <img v-if="person.imageUrl" class="mx-auto h-40 w-40 rounded-full xl:w-56 xl:h-56" :src="person.imageUrl" :alt="person.imageAlt" />
               <div class="space-y-2">
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>{{ person.name }}</h3>
