@@ -22,7 +22,7 @@ export default {
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://www.linkedin.com/in/maria-fernanda-laranjeira-da-silva-91a14526/',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634045086/MFLS_FeLAB_foto_p3dbbm.jpg',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634053130/MFLS_FeLAB_foto_square_fryjvc.jpg',
                     imageAlt: 'Maria Fernanda Laranjeira | Research Scientist @ USP'                
                 },                   
                 {
