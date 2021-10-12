@@ -103,14 +103,15 @@ export default {
         },
         {
           id: 3,
-          text: "Contact",
-          page: "contact"
-        },
-        {
-          id: 4,
           text: "People",
           page: "people"
         }
+        {
+          id: 4,
+          text: "Contact",
+          page: "contact"
+        },
+        
       ]
     };
   },
