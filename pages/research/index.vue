@@ -17,7 +17,7 @@ export default {
   data() {
     return {
       img_src: 'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634046591/TGTJ1407_o7ew8f.jpg',
-      img_alt: '',
+      img_alt: 'Alt text',
       testimonial: 'Our studies have been designed to further our understanding of the molecular mechanisms through which Leishmania acquires essential nutrients from the host for the disease to become established. Using this understanding we aim to establish these pathways as strong candidates for the design of molecules that specifically target parasite proteins without impacting host metabolism. As a next step, 3D structure determination of these parasite proteins will enable the screening of ligands, which will be evaluated as alternative chemotherapies against Leishmaniasis.',
       person_title: 'Maria Fernanda Laranjeira-Silva',
       stats : [
