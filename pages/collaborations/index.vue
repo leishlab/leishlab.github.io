@@ -21,9 +21,9 @@ export default {
                     role: 'Professor at the Institute of Chemistry of the University of São Paulo',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
-                    imageAlt: 'Roberto K. Salinas | Professor @ USP'                
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    //imageAlt: 'Roberto K. Salinas | Professor @ USP'                
                 },
                 {
                     id: 2,
@@ -31,9 +31,9 @@ export default {
                     role: 'Professor at the University of Maryland',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
-                    imageAlt: 'Norma W. Andrews | Professor @ UMD'                
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    //imageAlt: 'Norma W. Andrews | Professor @ UMD'                
                 },
                 {
                     id: 3,
@@ -41,9 +41,9 @@ export default {
                     role: 'Professor at the University of Maryland',
                     twitterUrl: 'https://twitter.com',
                     linkedinUrl: 'https://linkedin.com',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
-                    imageAlt: 'Iqbal Hamza | Professor @ UMD'                
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    //imageAlt: 'Iqbal Hamza | Professor @ UMD'                
                 }
             ]
         }
