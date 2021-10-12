@@ -19,12 +19,12 @@ export default {
   data() {
         return {
           contact_h1: 'Contact Us',
-          contact_p: 'Contact friendly message',
-          contact_address_street: "Rua do Matão, 1000",
-          contact_address_place: 'Cid Universitária - São Paulo - SP',
-          contact_address_zip: '00000 000',
-          contact_phone: '+55 11 9 9999 9999',
-          contact_email: 'email@usp.br'
+          contact_p: 'Institute of Biosciences - University of São Paulo',
+          contact_address_street: "Rua do Matão, travessa 14, 101",
+          contact_address_place: 'Cidade Universitária - São Paulo - SP',
+          contact_address_zip: '05508-090',
+          contact_phone: '+55 (11) 2648-8430',
+          contact_email: 'mfernandals@usp.br'
         }
   }
 }
