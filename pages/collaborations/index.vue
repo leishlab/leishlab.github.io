@@ -20,7 +20,7 @@ export default {
                     name: 'Roberto K. Salinas',
                     role: 'Professor - Institute of Chemistry of the University of São Paulo',
                     lattesUrl: 'https://lattes.cnpq.br/6171517695707255',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/roberto-salinas-33914ba6/',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     //imageAlt: 'Roberto K. Salinas | Professor @ USP'                
@@ -30,7 +30,7 @@ export default {
                     name: 'Norma W. Andrews',
                     role: 'Professor - University of Maryland',
                     //twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/norma-andrews-87260869/',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     //imageAlt: 'Norma W. Andrews | Professor @ UMD'                
@@ -40,7 +40,7 @@ export default {
                     name: 'Iqbal Hamza',
                     role: 'Professor - University of Maryland',
                     //twitterUrl: 'https://twitter.com',
-                    linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/iqbal-hamza-ba30a718/',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     //imageAlt: 'Iqbal Hamza | Professor @ UMD'                
