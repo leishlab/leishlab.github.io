@@ -37,6 +37,11 @@ export default {
                         id: 3,
                         text: 'Contact',
                         url: "/contact"                        
+                    },
+                    {
+                        id: 4,
+                        text: 'Bio',
+                        url: "/bio"                        
                     }
                 ]                
             },

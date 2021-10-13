@@ -1,6 +1,6 @@
 <template>
     <div class="space-y-8 xl:col-span-1">
-        <Logo/>
+        <Logo v-bind:color="logo_color"/>
         <p class="text-gray-500 text-base">{{tagline}}</p>
         <div class="flex space-x-6">
             <a :href="social_network.facebook" class="text-gray-400 hover:text-gray-500" target="_blank" rel="noopener">
@@ -41,7 +41,8 @@ export default {
                 facebook : 'http://facebook.com',
                 instagram : 'https://instagram.com',
                 twitter : 'https://twitter.com'
-            }
+            }, 
+            logo_color: '#d4d4d8'
         }
     }
 }
