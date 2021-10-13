@@ -50,7 +50,7 @@ export default {
                     name: 'Lucas Felipe Almeida Athayde',
                     role: 'MS Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
-                    linkedinUrl: 'https://linkedin.com',
+                    //linkedinUrl: 'https://linkedin.com',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
                     imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
@@ -60,7 +60,7 @@ export default {
                     name: 'Giovana Aquino Parreira',
                     role: 'Undergrad Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/0418647232202748',
-                    linkedinUrl: 'https://linkedin.com',
+                    //linkedinUrl: 'https://linkedin.com',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544270/Giovana_zju6pm.jpg',
                     imageAlt: 'Giovana Aquino Parreira | Undergrad Student @ USP'                
@@ -70,7 +70,7 @@ export default {
                     name: 'Marco Antonio Mendes Gomes',
                     role: 'Undergrad Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/2681040462942756',
-                    linkedinUrl: 'https://linkedin.com',
+                    //linkedinUrl: 'https://linkedin.com',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Marco_nk6zbe.jpg',
                     imageAlt: 'Marco Antonio Mendes Gomes | Undergrad Student @ USP' 
