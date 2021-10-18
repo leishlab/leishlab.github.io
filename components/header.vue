@@ -66,28 +66,28 @@ export default {
       menus: [
         {
           id: 1,
+          text: "Bio",
+          page: "bio"
+        },
+        {
+          id: 2,
           text: "Research",
           page: "research"
         },
         {
-          id: 2,
+          id: 3,
           text: "Publications",
           page: "publications"
         },
         {
-          id: 3,
-          text: "People",
-          page: "people"
-        },
-        {
           id: 4,
-          text: "Contact",
-          page: "contact"
+          text: "Team",
+          page: "team"
         },
         {
           id: 5,
-          text: "Bio",
-          page: "bio"
+          text: "Contact",
+          page: "contact"
         },
       ]
     };
