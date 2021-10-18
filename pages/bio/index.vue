@@ -40,13 +40,17 @@
             <div class="mt-5 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
             <p>I received my undergraduate degree in Molecular Sciences and a Ph.D. from the University of Sao Paulo, Brazil. During my PhD, Dr. Lucile Maria Floeter-Winter was my advisor, and I also worked in an interniship at Steve Beverley’s laboratory at Washington University of St Louis (USA).</p>
             <p>As a graduate student, I elucidated the role of Leishmania arginase that defines the fate of L-arginine and showed that correct subcellular localization of arginase is essential for enzyme activity and optimal parasite infectivity.</p>
-            <p>As a postdoctoral fellow at USP, Brazil, I discovered that the hormone melatonin attenuates Leishmania burden and lesion progression in hamsters.</p>
+            <p>As a postdoctoral fellow at USP, working with Dr. Regina P. Markus and Prof. Lucile Maria Floeter-Winter, I discovered that the hormone melatonin attenuates Leishmania burden in an animal model. </p>
             <p>My interests in iron and heme metabolism were sparked when I joined Dr. Norma Andrews’ lab at the University of Maryland as a Post-Doctoral Fellow, and then Dr. Iqbal Hamza’s lab as a Research Associate. In the Andrews’ lab, I identified and characterized the first iron exporter (LIR1) in a trypanosomatid parasite and showed that iron export is essential for Leishmania iron homeostasis and infectivity thereby answering an important question about how these parasites prevent accumulation of free iron to avoid cytotoxicity. In the Hamza lab, I gained a deeper understanding for host iron and heme metabolism pathways by studying the function of mouse and human HRG1.<p>
             <p>I started my independent career as an early-stage investigator in Brazil when I was competitively awarded a Young Investigator FAPESP grant.<p> 
             <ul role="list">
-                <li>B.S. in Molecular Sciences (USP/Brazil) - 2001 – 2005.</li>
-                <li>Cras cras lobortis vitae vivamus ultricies facilisis tempus.</li>
-                <li>Orci in sit morbi dignissim metus diam arcu pretium.</li>
+                <li>B.S. in Molecular Sciences (USP/Brazil) - 2001–2005.</li>
+                <li>Ph.D. in Physiology, emphasis in Molecular Biology (USP/Brazil) - 2005-2010.</li>
+                <li>Postdoctoral Researcher (USP/Brazil) - 2010-2013.</li>
+                <li>Postdoctoral Researcher (UMD College Park/USA) - 2014-2016.</li>
+                <li>Research Associate (UMD College Park/USA) - 2016-2018.</li>
+                <li>Research Associate (USP/Brazil) - since 2018.</li>
+                <li>Visiting Professor (UFABC/Brazil) - since 2021.</li>
             </ul>
             <p>Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra.</p>
             <h3>How we helped</h3>
