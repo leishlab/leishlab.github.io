@@ -42,7 +42,7 @@ export default {
             papers : [
               {
                 "title": "Lipid and fatty acid metabolism in trypanosomatids",
-                "href": "https://doi.org/",
+                "href": "https://doi.org/10.15698/mic2021.11.764",
                 "description": "Giovana P. de Aquino, Marco Antonio M. Gomes, Roberto K. Salinas, Maria Fernanda Laranjeira-Silva",
                 "date": "October 2021",
                 "datetime": "October 2021"
