@@ -4,16 +4,16 @@
     class="sticky h-16 top-0 w-full bg-gray-900 z-50 flex justify-center"
   >
     <div
-      class="max-w-screen-lg flex-1 flex w-full justify-between px-6 items-center lg:p-0"
+      class="flex-1 flex w-full justify-between px-6 items-center lg:p-0"
     >
       <!--logo-->
-      <NuxtLink :to='"/"'>
+      <NuxtLink :to='"/"' class="md:px-20">
         <Logo v-bind:color="logo_color"/>
       </NuxtLink>
 
       <!--navigation-->
       <nav
-        class="w-full flex flex-auto flex-col items-end lg:w-1/2 lg:flex-row lg:items-center lg:h-full border-white"
+        class="w-full md:px-20 flex flex-auto flex-col items-end lg:w-1/2 lg:flex-row lg:items-center lg:h-full border-white"
       >
         <!--hidden hamburger button-->
         <button
