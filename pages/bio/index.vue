@@ -4,8 +4,8 @@
         <div class="hidden lg:block bg-gray-50 absolute top-0 bottom-0 left-3/4 w-screen"></div>
         <div class="mx-auto text-base max-w-prose lg:grid lg:grid-cols-2 lg:gap-8 lg:max-w-none">
         <div>
-            <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">!--Case Study--</h2>
-            <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Meet Maria Fernanda</h3>
+            <!--h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">Case Study</h2-->
+            <h1 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Meet Maria Fernanda</h1>
         </div>
         </div>
         <div class="mt-8 lg:grid lg:grid-cols-2 lg:gap-8">
@@ -23,13 +23,6 @@
                 <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
                 <img class="rounded-lg shadow-lg object-cover object-center" src="https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070998/IMG_7859_xkfsre.jpg" alt="Whitney leaning against a railing on a downtown street" width="1184" height="1376">
                 </div>
-                <figcaption class="mt-3 flex text-sm text-gray-500">
-                <!-- Heroicon name: solid/camera -->
-                <svg class="flex-none w-5 h-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M4 5a2 2 0 00-2 2v8a2 2 0 002 2h12a2 2 0 002-2V7a2 2 0 00-2-2h-1.586a1 1 0 01-.707-.293l-1.121-1.121A2 2 0 0011.172 3H8.828a2 2 0 00-1.414.586L6.293 4.707A1 1 0 015.586 5H4zm6 9a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd" />
-                </svg>
-                <span class="ml-2">Photograph by Marcus O’Leary</span>
-                </figcaption>
             </figure>
             </div>
         </div>
@@ -41,8 +34,8 @@
             <p>I received my undergraduate degree in Molecular Sciences and a Ph.D. from the University of Sao Paulo, Brazil. During my PhD, Dr. Lucile Maria Floeter-Winter was my advisor, and I also worked in an interniship at Steve Beverley’s laboratory at Washington University of St Louis (USA).</p>
             <p>As a graduate student, I elucidated the role of Leishmania arginase that defines the fate of L-arginine and showed that correct subcellular localization of arginase is essential for enzyme activity and optimal parasite infectivity.</p>
             <p>As a postdoctoral fellow at USP, working with Dr. Regina P. Markus and Prof. Lucile Maria Floeter-Winter, I discovered that the hormone melatonin attenuates Leishmania burden in an animal model. </p>
-            <p>My interests in iron and heme metabolism were sparked when I joined Dr. Norma Andrews’ lab at the University of Maryland as a Post-Doctoral Fellow, and then Dr. Iqbal Hamza’s lab as a Research Associate. In the Andrews’ lab, I identified and characterized the first iron exporter (LIR1) in a trypanosomatid parasite and showed that iron export is essential for Leishmania iron homeostasis and infectivity thereby answering an important question about how these parasites prevent accumulation of free iron to avoid cytotoxicity. In the Hamza lab, I gained a deeper understanding for host iron and heme metabolism pathways by studying the function of mouse and human HRG1.<p>
-            <p>I started my independent career as an early-stage investigator in Brazil when I was competitively awarded a Young Investigator FAPESP grant.<p> 
+            <p>My interests in iron and heme metabolism were sparked when I joined Dr. Norma Andrews’ lab at the University of Maryland as a Post-Doctoral Fellow, and then Dr. Iqbal Hamza’s lab as a Research Associate. In the Andrews’ lab, I identified and characterized the first iron exporter (LIR1) in a trypanosomatid parasite and showed that iron export is essential for Leishmania iron homeostasis and infectivity thereby answering an important question about how these parasites prevent accumulation of free iron to avoid cytotoxicity. In the Hamza lab, I gained a deeper understanding for host iron and heme metabolism pathways by studying the function of mouse and human HRG1.</p>
+            <p>I started my independent career as an early-stage investigator in Brazil when I was competitively awarded a Young Investigator FAPESP grant.</p> 
             <ul role="list">
                 <li>B.S. in Molecular Sciences (USP/Brazil) - 2001–2005.</li>
                 <li>Ph.D. in Physiology, emphasis in Molecular Biology (USP/Brazil) - 2005-2010.</li>
@@ -52,10 +45,6 @@
                 <li>Research Associate (USP/Brazil) - since 2018.</li>
                 <li>Visiting Professor (UFABC/Brazil) - since 2021.</li>
             </ul>
-            <p>Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra.</p>
-            <h3>How we helped</h3>
-            <p>Tincidunt integer commodo, cursus etiam aliquam neque, et. Consectetur pretium in volutpat, diam. Montes, magna cursus nulla feugiat dignissim id lobortis amet. Laoreet sem est phasellus eu proin massa, lectus. Diam rutrum posuere donec ultricies non morbi. Mi a platea auctor mi.</p>
-            <p>Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi.</p>
             </div>
         </div>
         </div>

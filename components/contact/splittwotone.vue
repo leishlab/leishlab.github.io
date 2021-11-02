@@ -48,31 +48,10 @@
         </dl>
       </div>
     </div>
-    <div class="bg-white py-16 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
-      <div class="max-w-lg mx-auto lg:max-w-none">
-        <form action="#" method="POST" class="grid grid-cols-1 gap-y-6">
-          <div>
-            <label for="full-name" class="sr-only">Full name</label>
-            <input type="text" name="full-name" id="full-name" autocomplete="name" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Full name">
-          </div>
-          <div>
-            <label for="email" class="sr-only">Email</label>
-            <input id="email" name="email" type="email" autocomplete="email" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Email">
-          </div>
-          <div>
-            <label for="phone" class="sr-only">Phone</label>
-            <input type="text" name="phone" id="phone" autocomplete="tel" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Phone">
-          </div>
-          <div>
-            <label for="message" class="sr-only">Message</label>
-            <textarea id="message" name="message" rows="4" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border border-gray-300 rounded-md" placeholder="Message"></textarea>
-          </div>
-          <div>
-            <button type="submit" class="inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
-              Submit
-            </button>
-          </div>
-        </form>
+    <div class="mt-12 -mb-16 sm:-mb-48 lg:m-0 lg:relative">
+      <div class="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:max-w-none lg:px-0">
+        <!-- Illustration taken from Lucid Illustrations: https://lucid.pixsellz.io/ -->
+        <img class="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none" :src="page_illustration" alt="">
       </div>
     </div>
   </div>
@@ -110,6 +89,10 @@ export default {
         contact_email: {
             type: String, 
             required: true
+        },
+        page_illustration: {
+          type: String,
+          required: true
         }
     }
 }
