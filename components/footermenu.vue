@@ -60,22 +60,6 @@ export default {
                         url: "/collaborations"
                     }
                 ]
-            },
-            legal : {
-                classLst : '',
-                name : 'Legal',
-                items : [
-                    {
-                        id: 1,
-                        text: 'Terms',
-                        url: "/terms"
-                    },
-                    {
-                        id: 2,
-                        text: 'Privacy',
-                        url: "/privacy"
-                    }
-                ]
             }
         }
     }
