@@ -7,9 +7,9 @@
       class="max-w-screen-lg flex-1 flex w-full justify-between px-6 items-center lg:p-0"
     >
       <!--logo-->
-      <a href="/">
+      <NuxtLink :to='"/"'>
         <Logo v-bind:color="logo_color"/>
-      </a>
+      </NuxtLink>
 
       <!--navigation-->
       <nav

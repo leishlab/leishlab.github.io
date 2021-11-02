@@ -1,6 +1,8 @@
 <template>
     <div class="space-y-8 xl:col-span-1">
-        <Logo v-bind:color="logo_color"/>
+        <NuxtLink :to='"/"'>
+            <Logo v-bind:color="logo_color"/>
+        </NuxtLink>
         <p class="text-gray-500 text-base">{{tagline}}</p>
         <div class="flex space-x-6">
             <a :href="social_network.facebook" class="text-gray-400 hover:text-gray-500" target="_blank" rel="noopener">
