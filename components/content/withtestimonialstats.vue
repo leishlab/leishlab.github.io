@@ -25,24 +25,28 @@
         </div>
       </div>
 
-      <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0">
+      <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0 prose">
         <!-- Content area -->
         <div class="pt-12 sm:pt-16 lg:pt-20">
           <h1 class="text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl">
               Ongoing Research Projects
           </h1>
           <div class="mt-6 text-gray-500 space-y-6">
-            <p class="text-lg">
+            <p class="text-lg text-gray-900">
               Identification and characterization of membrane proteins involved in iron transport and metabolism in Leishmania:
-                Study of the regulation of iron and heme transporters at the Leishmania-host interface - effect of iron deficiency anemia on the virulence of Leishmania (L.) amazonensis.
-                Identification and characterization of iron transporters in the glycossomes of Leishmania.
-                Characterization of manganese transport mediated by the iron transporter LIR1 in Leishmania.
             </p>
-            <p class="text-base leading-7">
+            <ul role="list">
+              <li>Study of the regulation of iron and heme transporters at the Leishmania-host interface - effect of iron deficiency anemia on the virulence of Leishmania (L.) amazonensis.</li>
+              <li>Identification and characterization of iron transporters in the glycossomes of Leishmania.</li>
+              <li>Characterization of manganese transport mediated by the iron transporter LIR1 in Leishmania.</li>
+            </ul>                
+            <p class="text-lg text-gray-900">
               Trypanosomatids' FABP-like proteins as potential targets for the development of new antiparasitic drugs:
-               Determination of LeiFABP subcellular location in L. amazonensis.
             </p>
-            <p class="text-base leading-7">
+            <ul role="list">
+              <li>Determination of LeiFABP subcellular location in L. amazonensis.</li>
+            </ul>            
+            <p class="text-lg text-gray-900">
               The Leishmania-host relationship from the "omics" perspective.
             </p>
           </div>
