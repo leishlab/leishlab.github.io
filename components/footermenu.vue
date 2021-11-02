@@ -47,12 +47,12 @@ export default {
             },
             team : {
                 classLst : 'mt-12 md:mt-0',
-                name : 'Team',
+                name : 'People',
                 items : [
                     {
                         id: 1,
-                        text: 'People',
-                        url: "/people"
+                        text: 'Team',
+                        url: "/team"
                     },
                     {
                         id: 2,
