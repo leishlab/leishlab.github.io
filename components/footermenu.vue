@@ -24,25 +24,26 @@ export default {
                 name : 'About',
                 items : [
                     {
-                        id: 1, 
+                        id: 1,
+                        text: 'Bio',
+                        url: "/bio"                        
+                    },
+                    {
+                        id: 2, 
                         text: 'Research', 
                         url: '/research'
                     },
                     {
-                        id: 2, 
+                        id: 3, 
                         text: 'Publications', 
                         url: '/publications'
                     },
                     {
-                        id: 3,
+                        id: 4,
                         text: 'Contact',
                         url: "/contact"                        
                     },
-                    {
-                        id: 4,
-                        text: 'Bio',
-                        url: "/bio"                        
-                    }
+                    
                 ]                
             },
             team : {
