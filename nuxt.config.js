@@ -107,13 +107,23 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxtjs/robots',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    '@nuxtjs/google-gtag'
   ],
   sitemap: {
     // options
     hostname: 'https://felab.science',
   },
+  'google-gtag': {
+    id: 'G-BQMZP757HQ',
+    config: {
+      anonymize_ip: false, // anonymize IP 
+      send_page_view: false, // avoid duplicated page track on page reload
+    },
+    debug: true, // enable to track in dev mode
+    disableAutoPageTrack: false, // disable if you don't want to track each page route with router.afterEach(...).
 
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     
