@@ -20,7 +20,7 @@
             </svg>
             <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
             <figure>
-                <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
+                <div class="aspect-none">
                 <img class="rounded-lg shadow-lg object-cover object-center" src="https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070998/IMG_7859_xkfsre.jpg" alt="Whitney leaning against a railing on a downtown street" width="1184" height="1376">
                 </div>
             </figure>
