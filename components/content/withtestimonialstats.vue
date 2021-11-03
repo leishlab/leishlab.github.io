@@ -33,21 +33,21 @@
           </h1>
           <div class="mt-6 text-gray-500 space-y-6">
             <p class="text-lg text-gray-900">
-              Identification and characterization of membrane proteins involved in iron transport and metabolism in Leishmania:
+              Identification and characterization of membrane proteins involved in iron transport and metabolism in <span class="italic">Leishmania</span>:
             </p>
             <ul role="list">
-              <li>Study of the regulation of iron and heme transporters at the Leishmania-host interface - effect of iron deficiency anemia on the virulence of Leishmania (L.) amazonensis.</li>
-              <li>Identification and characterization of iron transporters in the glycossomes of Leishmania.</li>
-              <li>Characterization of manganese transport mediated by the iron transporter LIR1 in Leishmania.</li>
+              <li>Study of the regulation of iron and heme transporters at the <span class="italic">Leishmania</span>-host interface - effect of iron deficiency anemia on the virulence of <span class="italic">Leishmania (L.) amazonensis</span>.</li>
+              <li>Identification and characterization of iron transporters in the glycossomes of <span class="italic">Leishmania</span>.</li>
+              <li>Characterization of manganese transport mediated by the iron transporter LIR1 in <span class="italic">Leishmania</span>.</li>
             </ul>                
             <p class="text-lg text-gray-900">
               Trypanosomatids' FABP-like proteins as potential targets for the development of new antiparasitic drugs:
             </p>
             <ul role="list">
-              <li>Determination of LeiFABP subcellular location in L. amazonensis.</li>
+              <li>Determination of LeiFABP subcellular location in <span class="italic">Leishmania amazonensis</span>.</li>
             </ul>            
             <p class="text-lg text-gray-900">
-              The Leishmania-host relationship from the "omics" perspective.
+              The <span class="italic">Leishmania</span>-host relationship from the "omics" perspective.
             </p>
             <p class="text-lg text-gray-900">
               * All ongoing projects are funded by FAPESP *
