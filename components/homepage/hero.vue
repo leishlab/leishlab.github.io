@@ -18,7 +18,7 @@
                 </h1>
                 <p class="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
                   Neglected tropical diseases such as leishmaniasis have a huge impact on global health but are under researched and under-funded. Treatment and diagnostic techniques remain expensive and difficult to implement in remote areas. 
-                  Our goal is to further understand Leishmania pathogenesis to define better therapeutic targets for leishmaniasis treatment.
+                  Our goal is to further understand <span class="italic">Leishmania</span> pathogenesis to define better therapeutic targets for leishmaniasis treatment.
                 </p>
               </div>
             </div>
