@@ -106,8 +106,13 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxtjs/robots'
+    '@nuxtjs/robots',
+    '@nuxtjs/sitemap'
   ],
+  sitemap: {
+    // options
+    hostname: 'https://felab.science',
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
