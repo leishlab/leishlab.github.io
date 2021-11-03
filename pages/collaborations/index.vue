@@ -17,6 +17,16 @@ export default {
             people : [
                 {
                     id: 1,
+                    name: 'Lucile Maria Floeter-Winter',
+                    role: 'Professor - Institute of Biosciences of the University of São Paulo',
+                    lattesUrl: 'http://lattes.cnpq.br/9468443035508043',
+                    linkedinUrl: 'https://www.linkedin.com/in/lucile-floeter-winter-b5b91a48/',
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634045145/Lucile_FeLAB_foto_xvtn8b.jpg',
+                    //imageAlt: 'Lucile Maria Floeter-Winter | Professor @ USP' 
+                },
+                {
+                    id: 2,
                     name: 'Roberto K. Salinas',
                     role: 'Professor - Institute of Chemistry of the University of São Paulo',
                     lattesUrl: 'https://lattes.cnpq.br/6171517695707255',
@@ -26,7 +36,7 @@ export default {
                     //imageAlt: 'Roberto K. Salinas | Professor @ USP'                
                 },
                 {
-                    id: 2,
+                    id: 3,
                     name: 'Norma W. Andrews',
                     role: 'Professor - University of Maryland',
                     //twitterUrl: 'https://twitter.com',
@@ -36,7 +46,7 @@ export default {
                     //imageAlt: 'Norma W. Andrews | Professor @ UMD'                
                 },
                 {
-                    id: 3,
+                    id: 4,
                     name: 'Iqbal Hamza',
                     role: 'Professor - University of Maryland',
                     //twitterUrl: 'https://twitter.com',
