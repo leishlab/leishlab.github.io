@@ -40,7 +40,7 @@ export default {
         return {
             tagline: "Science to eradicate tropical diseases",
             social_network : {
-                facebook : 'http://facebook.com/laranjeiralab',
+                facebook : 'http://facebook.com',
                 instagram : 'https://instagram.com',
                 twitter : 'https://twitter.com'
             }, 
