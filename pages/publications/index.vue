@@ -55,91 +55,91 @@ export default {
                 "datetime": "October 2020"
               },
               {
-                "title": "Dual transcriptome analysis reveals differential gene expression modulation influenced by Leishmania arginase and host genetic background",
+                "title": "Dual transcriptome analysis reveals differential gene expression modulation influenced by <span class="italic">Leishmania</span> arginase and host genetic background",
                 "href": "https://doi.org/10.1099/mgen.0.000427",
                 "description": "Juliana I. Aoki, Sandra M. Muxel, Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Karl E. Müller, Audun H. Nerland, Lucile Maria Floeter-Winter",
                 "date": "September 2020",
                 "datetime": "September 2020"
               },
               {
-                "title": "Iron and heme metabolism at the Leishmania-host interface",
+                "title": "Iron and heme metabolism at the <span class="italic">Leishmania</span>-host interface",
                 "href": "https://doi.org/10.1016/j.pt.2019.12.010",
                 "description": "Maria Fernanda Laranjeira-Silva, Iqbal Hamza, José M. Pérez-Victoria",
                 "date": "March 2020",
                 "datetime": "March 2020"
               },
               {
-                "title": "In vivo infection with Leishmania amazonensis to evaluate parasite virulence in mice",
+                "title": "In vivo infection with <span class="italic">Leishmania amazonensis</span> to evaluate parasite virulence in mice",
                 "href": "https://doi.org/10.3791/60617",
                 "description": "Juliana I. Aoki, Ahyun Hong, Ricardo A. Zampieri, Lucile Maria Floeter-Winter, Maria Fernanda Laranjeira-Silva",
                 "date": "February 2020",
                 "datetime": "February 2020"
               },
               {
-                "title": "The impact of arginase activity on virulence factors of leishmania amazonensis.",
+                "title": "The impact of arginase activity on virulence factors of <span class="italic">Leishmania amazonensis</span>.",
                 "href": "https://doi.org/10.1016/j.mib.2019.06.003",
                 "description": "Juliana I. Aoki, Maria Fernanda Laranjeira-Silva, Sandra M. Muxel, Lucile Maria Floeter-Winter",
                 "date": "December 2019",
                 "datetime": "December 2019"
               },
               {
-                "title": "Ascorbate-Dependent Peroxidase (APX) from is a ROS-induced essential enzyme that regulates virulence.",
+                "title": "Ascorbate-Dependent Peroxidase (APX) from <span class="italic">Leishmania amazonensis</span> is a ROS-induced essential enzyme that regulates virulence.",
                 "href": "https://doi.org/10.1128/IAI.00193-19",
                 "description": "Lucia Xiang, Maria Fernanda Laranjeira- Silva, Fernando Y. Maeda, Jason Hauzel, Norma W. Andrews, Bidyottam Mittra",
                 "date": "November 2019",
                 "datetime": "November 2019"
               },
               {
-                "title": "Intracellular iron availability modulates the requirement for Leishmania Iron Regulator 1 (LIR1) during macrophage infections",
+                "title": "Intracellular iron availability modulates the requirement for <span class="italic">Leishmania</span> Iron Regulator 1 (LIR1) during macrophage infections",
                 "href": "https://doi.org/10.1016/j.ijpara.2019.02.002",
                 "description": "Amrita Sarkar, Norma W. Andrews, Maria Fernanda Laranjeira-Silva",
                 "date": "March 2019",
                 "datetime": "March 2019"
               },
               {
-                "title": "A MFS-like plasma membrane transporter required for Leishmania virulence protects the parasites from iron toxicity",
+                "title": "A MFS-like plasma membrane transporter required for <span class="italic">Leishmania</span> virulence protects the parasites from iron toxicity",
                 "href": "https://doi.org/10.1371/journal.ppat.1007140",
                 "description": "Maria Fernanda Laranjeira-Silva, Wanpeng Wang, Tamika K. Samuel, Fernando Y. Maeda, Vladimir Michailowsky, Iqbal Hamza, Zhongchi Liu, Norma W. Andrews",
                 "date": "June 2018",
                 "datetime": "June 2018"
               },
               {
-                "title": "Quantification of intracellular growth inside macrophages is a fast and reliable method for assessing the virulence of Leishmania parasites",
+                "title": "Quantification of intracellular growth inside macrophages is a fast and reliable method for assessing the virulence of <span class="italic">Leishmania</span> parasites",
                 "href": "https://doi.org/10.3791/57486",
                 "description": "Amrita Sarkar, Yousuf A. Khan, Maria Fernanda Laranjeira-Silva, Norma W. Andrews, Bidyottam Mittra",
                 "date": "March 2018",
                 "datetime": "March 2018"
               },
               {
-                "title": "Arginine and polyamines fate in Leishmania infection",
+                "title": "Arginine and polyamines fate in <span class="italic">Leishmania</span> infection",
                 "href": "https://doi.org/10.3389/fmicb.2017.02682",
                 "description": "Sandra M. Muxel, Juliana I. Aoki, Juliane C. R. Fernandes, Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Stephanie M. Acuña, Karl E. Müller, Rubia H. Vanderlinde, Lucile Maria Floeter-Winter",
                 "date": "January 2018",
                 "datetime": "January 2018"
               },
               {
-                "title": "Arginase expression modulates nitric oxide production in Leishmania (Leishmania) amazonensis",
+                "title": "Arginase expression modulates nitric oxide production in <span class="italic">Leishmania (Leishmania) amazonensis</span>",
                 "href": "https://doi.org/10.1371/journal.pone.0187186",
                 "description": "Stephanie M. Acuña, Juliana I. Aoki, Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Juliane C. R. Fernandes, Sandra M. Muxel, Lucile Maria Floeter-Winter",
                 "date": "November 2017",
                 "datetime": "November 2017"
               },
               {
-                "title": "RNA-seq transcriptional profiling of Leishmania amazonensis reveals an arginase-dependent gene expression regulation",
+                "title": "RNA-seq transcriptional profiling of <span class="italic">Leishmania amazonensis</span> reveals an arginase-dependent gene expression regulation",
                 "href": "https://doi.org/10.1371/journal.pntd.0006026",
                 "description": "Juliana I. Aoki, Sandra M. Muxel, Ricardo A. Zampieri, Maria Fernanda Laranjeira-Silva, Karl E. Müller, Audun H. Nerland, Lucile Maria Floeter-Winter",
                 "date": "October 2017",
                 "datetime": "October 2017"
               },
               {
-                "title": "The iron-dependent mitochondrial superoxide dismutase SODA promotes Leishmania virulence",
+                "title": "The iron-dependent mitochondrial superoxide dismutase SODA promotes <span class="italic">Leishmania</span> virulence",
                 "href": "https://doi.org/10.1074/jbc.M116.772624",
                 "description": "Bidyottam Mittra, Maria Fernanda Laranjeira-Silva, Danilo C. Miguel, Juliana P. B. de Menezes, Norma W. Andrews",
                 "date": "May 2017",
                 "datetime": "May 2017"
               },
               {
-                "title": "Leishmania (Leishmania) amazonensis induces macrophage miR-294 and miR-721 expression and modulates infection by targeting NOS2 and L-arginine metabolism",
+                "title": "<span class="italic">Leishmania (Leishmania) amazonensis</span> induces macrophage miR-294 and miR-721 expression and modulates infection by targeting NOS2 and L-arginine metabolism",
                 "href": "https://doi.org/10.1038/srep44141",
                 "description": "Sandra M. Muxel, Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Lucile Maria Floeter-Winter",
                 "date": "March 2017",
@@ -153,7 +153,7 @@ export default {
                 "datetime": "March 2017"
               },
               {
-                "title": "Leishmania infection inhibits macrophage motility by altering F-actin dynamics and the expression of adhesion complex proteins",
+                "title": "<span class="italic">Leishmania</span> infection inhibits macrophage motility by altering F-actin dynamics and the expression of adhesion complex proteins",
                 "href": "https://doi.org/10.1111/cmi.12668",
                 "description": "Juliana P. B. de Menezes, Amrita Koushik, Satarupa Das, Can Guven, Ariel Siegel, Maria Fernanda Laranjeira-Silva, Wolfgang Losert, Norma W. Andrews",
                 "date": "September 2016",
@@ -167,42 +167,42 @@ export default {
                 "datetime": "February 2016"
               },
               {
-                "title": "High resolution melting analysis targeting hsp70 as a fast and efficient method for the discrimination of Leishmania species",
+                "title": "High resolution melting analysis targeting hsp70 as a fast and efficient method for the discrimination of <span class="italic">Leishmania</span> species",
                 "href": "https://doi.org/10.1371/journal.pntd.0004485",
                 "description": "Ricardo A. Zampieri, Maria Fernanda Laranjeira-Silva, Sandra M. Muxel, Ana Carolina S. de Lima, Jeffrey J. Shaw, Lucile Maria Floeter-Winter",
                 "date": "February 2016",
                 "datetime": "February 2016"
               },
               {
-                "title": "A trypanosomatid iron transporter that regulates mitochondrial function is required for Leishmania amazonensis virulence",
+                "title": "A trypanosomatid iron transporter that regulates mitochondrial function is required for <span class="italic">Leishmania amazonensis</span> virulence",
                 "href": "https://doi.org/10.1371/journal.ppat.1005340",
                 "description": "Bidyottam Mittra, Maria Fernanda Laranjeira-Silva, Juliana P. B. de Menezes, Jennifer Jensen, Vladimir Michailowsky, Norma W. Andrews",
                 "date": "January 2016",
                 "datetime": "January 2016"
               },
               {
-                "title": "Melatonin attenuates Leishmania (L.) amazonensis infection by modulating arginine metabolism",
+                "title": "Melatonin attenuates <span class="italic">Leishmania (L.) amazonensis</span> infection by modulating arginine metabolism",
                 "href": "https://doi.org/10.1111/jpi.12279",
                 "description": "Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Sandra M. Muxel, Lucile Maria Floeter-Winter, Regina P. Markus",
                 "date": "September 2015",
                 "datetime": "September 2015"
               },
               {
-                "title": "Capillary electrophoresis reveals polyamine metabolism modulation in Leishmania (Leishmania) amazonensis wild-type and arginase knockout mutants under arginine starvation",
+                "title": "Capillary electrophoresis reveals polyamine metabolism modulation in <span class="italic">Leishmania (Leishmania) amazonensis</span> wild-type and arginase knockout mutants under arginine starvation",
                 "href": "https://doi.org/10.1002/elps.201500114",
                 "description": "Emerson A. Castilho-Martins, Gisele A. B. Canuto, Sandra M. Muxel, Maria Fernanda Laranjeira-Silva, Lucile Maria Floeter-Winter, Carmen del Aguila, Ángeles López-Gonzálvez, Coral Barbas",
                 "date": "July 2015",
                 "datetime": "July 2015"
               },
               {
-                "title": "Arginase in Leishmania",
+                "title": "Arginase in <span class="italic">Leishmania</span>",
                 "href": "https://doi.org/10.1007/978-94-007-7305-9_4",
                 "description": "Maria Fernanda Laranjeira-Silva, Lucile M. Floeter-Winter",
                 "date": "October 2013",
                 "datetime": "October 2013"
               },
               {
-                "title": "Leishmania amazonensis arginase compartmentalization in the glycosome is important for parasite infectivity",
+                "title": "<span class="italic">Leishmania amazonensis</span> arginase compartmentalization in the glycosome is important for parasite infectivity",
                 "href": "https://doi.org/10.1371/journal.pone.0034022",
                 "description": "Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Sandra M. Muxel, Stephen M. Beverley, Lucile M. Floeter-Winter",
                 "date": "March 2012",
@@ -216,28 +216,28 @@ export default {
                 "datetime": "June 2012"
               },
               {
-                "title": "Axenic Leishmania amazonensis promastigotes sense both the external and internal arginine pool distinctly regulating the two transporter-coding genes",
+                "title": "Axenic <span class="italic">Leishmania amazonensis</span> promastigotes sense both the external and internal arginine pool distinctly regulating the two transporter-coding genes",
                 "href": "https://doi.org/10.1371/journal.pone.0027818",
                 "description": "Emerson A. Castilho-Martins, Maria Fernanda Laranjeira-Silva, Marcos G. dos Santos, Sandra M. Muxel, Lucile M. Floeter-Winter",
                 "date": "November 2011",
                 "datetime": "November 2011"
               },
               {
-                "title": "Correlation of meta 1 expression with culture stage, cell morphology and infectivity in Leishmania (Leishmania) amazonensis promastigotes",
+                "title": "Correlation of meta 1 expression with culture stage, cell morphology and infectivity in <span class="italic">Leishmania (Leishmania) amazonensis</span> promastigotes",
                 "href": "https://doi.org/10.1590/s0074-02762011000200012",
                 "description": "Marcos G. dos Santos, Maria Fernanda Laranjeira-Silva, Ricardo A. Zampieri, Rafaella M. Lafraia, Lucile Maria Floeter-Winter",
                 "date": "March 2011",
                 "datetime": "March 2011"
               },
               {
-                "title": "Biochemical characterization of serine transport in Leishmania (Leishmania) amazonensis",
+                "title": "Biochemical characterization of serine transport in <span class="italic">Leishmania (Leishmania) amazonensis</span>",
                 "href": "https://doi.org/10.1016/j.molbiopara.2008.11.001",
                 "description": "Marcos G. dos Santos, Lisvane S. Paes, Ricardo A. Zampieri, Maria Fernanda Laranjeira-Silva, Ariel M. Silber, Lucile Maria Floeter-Winter",
                 "date": "February 2009",
                 "datetime": "February 2009"
               },
               {
-                "title": "Biochemical and biophysical properties of a highly active recombinant arginase from Leishmania (Leishmania) amazonensis and subcellular localization of native enzyme.",
+                "title": "Biochemical and biophysical properties of a highly active recombinant arginase from <span class="italic">Leishmania (Leishmania) amazonensis</span> and subcellular localization of native enzyme.",
                 "href": "https://doi.org/10.1016/j.molbiopara.2008.02.011",
                 "description": "Edson R. da Silva, Maria Fernanda Laranjeira-Silva, Hannes Fischer, Renato A. Mortara, Mario G. Mayer, Karine Framesqui, Ariel M. Sielber, Lucile Maria Floeter-Winter",
                 "date": "June 2008",
