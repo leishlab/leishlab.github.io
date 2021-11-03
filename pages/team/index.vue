@@ -18,7 +18,8 @@ export default {
                 {
                     id: 1,
                     name: 'Maria Fernanda Laranjeira-Silva',
-                    role: 'Research Associate - USP, Professor - UFABC',
+                    role: 'Research Associate - USP',
+                    role2: 'Professor - UFABC',
                     lattesUrl: 'https://lattes.cnpq.br/5423200994091318',
                     linkedinUrl: 'https://www.linkedin.com/in/maria-fernanda-laranjeira-da-silva-91a14526/',
                     imageUrl:

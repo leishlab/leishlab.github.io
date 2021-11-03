@@ -14,6 +14,7 @@
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>{{ person.name }}</h3>
                   <p class="text-indigo-600">{{ person.role }}</p>
+                  <p v-if="person.role2" class="text-indigo-600">{{ person.role2 }}</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
                   <li>
