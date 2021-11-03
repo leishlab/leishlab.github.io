@@ -49,6 +49,9 @@
             <p class="text-lg text-gray-900">
               The Leishmania-host relationship from the "omics" perspective.
             </p>
+            <p class="text-lg text-gray-900">
+              * All ongoing projects are funded by FAPESP *
+            </p>
           </div>
         </div>
 
