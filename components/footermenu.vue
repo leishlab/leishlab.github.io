@@ -4,9 +4,9 @@
         <FooterMenuSection v-bind="about"/>
         <FooterMenuSection v-bind="team"/>
     </div>
-    <div class="md:grid md:grid-cols-2 md:gap-8">
+    <!--div class="md:grid md:grid-cols-2 md:gap-8">
         <FooterMenuSection v-bind="legal"/>
-    </div>
+    </div-->
     </div>
 </template>
 
