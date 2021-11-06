@@ -42,7 +42,7 @@ export default {
             social_network : {
                 facebook : 'http://facebook.com/laranjeiralab',
                 instagram : 'https://instagram.com/laranjeiralab',
-                twitter : 'https://twitter.com'
+                twitter : 'https://twitter.com/LabMfls'
             }, 
             logo_color: '#d4d4d8'
         }
