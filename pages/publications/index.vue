@@ -41,6 +41,13 @@ export default {
         return {
             papers : [
               {
+                "title": "Novel insights into parasite dynamics for leishmaniasis treatment",
+                "href": "https://doi.org/10.32907/RO-126-1919785198",
+                "description": "Maria Fernanda Laranjeira da Silva",
+                "date": "December 2021",
+                "datetime": "December 2021"
+              },
+              {
                 "title": "Lipid and fatty acid metabolism in trypanosomatids",
                 "href": "https://doi.org/10.15698/mic2021.11.764",
                 "description": "Giovana P. de Aquino, Marco Antonio M. Gomes, Roberto K. Salinas, Maria Fernanda Laranjeira-Silva",
