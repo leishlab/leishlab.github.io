@@ -42,8 +42,9 @@
                 <li>Postdoctoral Researcher (USP/Brazil) - 2010-2013.</li>
                 <li>Postdoctoral Researcher (UMD College Park/USA) - 2014-2016.</li>
                 <li>Research Associate (UMD College Park/USA) - 2016-2018.</li>
-                <li>Research Associate (USP/Brazil) - since 2018.</li>
-                <li>Visiting Professor (UFABC/Brazil) - since 2021.</li>
+                <li>Research Associate (USP/Brazil) - 2018-2023.</li>
+                <li>Visiting Professor (UFABC/Brazil) - 2021-2023.</li>
+                <li>Professor (USP/Brazil) - since May 2023.</li>
             </ul>
             </div>
         </div>
