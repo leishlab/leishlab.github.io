@@ -54,7 +54,17 @@ export default {
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
                     //imageAlt: 'Iqbal Hamza | Professor @ UMD'                
-                }
+                },
+                 {
+                    id: 5,
+                    name: 'Juliana Ide Aoki',
+                    role: 'Researcher - Unicamp',
+                    //lattesUrl: 'http://lattes.cnpq.br/3300018120206040',
+                    linkedinUrl: 'https://www.linkedin.com/in/juliana-aoki-880669153/',
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
+                    //imageAlt: 'Juliana Ide Aoki | Post-Doc @ USP'                
+                },
             ]
         }
     }
