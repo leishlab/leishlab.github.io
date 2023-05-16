@@ -48,26 +48,6 @@ export default {
                 },
                 {
                     id: 4,
-                    name: 'Giovana Aquino Parreira',
-                    role: 'Undergrad Student - USP',
-                    lattesUrl: 'http://lattes.cnpq.br/0418647232202748',
-                    //linkedinUrl: 'https://linkedin.com',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544270/Giovana_zju6pm.jpg',
-                    imageAlt: 'Giovana Aquino Parreira | Undergrad Student @ USP'                
-                },
-                {
-                    id: 5,
-                    name: 'Marco Antonio Mendes Gomes',
-                    role: 'Undergrad Student - USP',
-                    lattesUrl: 'http://lattes.cnpq.br/2681040462942756',
-                    //linkedinUrl: 'https://linkedin.com',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633540924/Marco_nk6zbe.jpg',
-                    imageAlt: 'Marco Antonio Mendes Gomes | Undergrad Student @ USP' 
-                },
-                {
-                    id: 6,
                     name: 'Lucas Felipe Almeida Athayde',
                     role: 'MS Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
@@ -77,7 +57,7 @@ export default {
                     imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
                 },
                 {
-                    id: 7,
+                    id: 5,
                     name: 'Ricardo Andrade Zampieri',
                     role: 'Researcher - USP',
                     lattesUrl: 'http://lattes.cnpq.br/6456862196184646',
@@ -87,17 +67,7 @@ export default {
                     imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
                 },
                 {
-                    id: 8,
-                    name: 'Juliana Ide Aoki',
-                    role: 'Post-Doc - USP',
-                    lattesUrl: 'http://lattes.cnpq.br/3300018120206040',
-                    linkedinUrl: 'https://www.linkedin.com/in/juliana-aoki-880669153/',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633481980/foto_JuAoki_site_wqvx5j.png',
-                    imageAlt: 'Juliana Ide Aoki | Post-Doc @ USP'                
-                },
-                {
-                    id: 9,
+                    id: 6,
                     name: 'Lucile Maria Floeter-Winter',
                     role: 'Professor - USP',
                     lattesUrl: 'http://lattes.cnpq.br/9468443035508043',
