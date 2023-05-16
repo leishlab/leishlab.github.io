@@ -22,7 +22,7 @@ export default {
       person_title: 'Maria Fernanda Laranjeira-Silva',
       stats : [
         { id: 1, label: 'Publications', value: '30' },
-        { id: 2, label: 'Citations', value: '823' },
+        { id: 2, label: 'Citations', value: '1043' },
         ]
       }
     }
