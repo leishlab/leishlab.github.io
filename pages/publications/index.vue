@@ -40,6 +40,13 @@ export default {
     data() {
         return {
             papers : [
+            {
+                "title": "Reporter gene systems: A powerful tool for Leishmania studies",
+                "href": "https://doi.org/10.1016/j.crmicr.2022.100165",
+                "description": "Romário L. Boy, Ahyun Hong, Juliana I. Aoki, Lucile Maria Floeter-Winter, Maria Fernanda Laranjeira-Silva",
+                "date": "September 2022",
+                "datetime": "September 2022"
+              },
               {
                 "title": "Novel insights into parasite dynamics for leishmaniasis treatment",
                 "href": "https://doi.org/10.32907/RO-126-1919785198",
@@ -57,7 +64,7 @@ export default {
               {
                 "title": "One health approach to leishmaniases: understanding the disease dynamics through diagnostic tools",
                 "href": "https://doi.org/10.3390/pathogens9100809",
-                "description": "Ahyun Hong, Ricardo A. Zampieri, Jeffrey J. Shaw, Lucile Maria Floeter-winter, Maria Fernanda Laranjeira-Silva",
+                "description": "Ahyun Hong, Ricardo A. Zampieri, Jeffrey J. Shaw, Lucile Maria Floeter-Winter, Maria Fernanda Laranjeira-Silva",
                 "date": "October 2020",
                 "datetime": "October 2020"
               },
