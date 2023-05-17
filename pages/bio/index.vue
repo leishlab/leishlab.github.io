@@ -37,7 +37,7 @@
             <p>My interests in iron and heme metabolism were sparked when I joined Dr. Norma Andrews’ lab at the University of Maryland as a Post-Doctoral Fellow, and then Dr. Iqbal Hamza’s lab as a Research Associate. In the Andrews’ lab, I identified and characterized the first iron exporter (LIR1) in a trypanosomatid parasite and showed that iron export is essential for <span class="italic">Leishmania</span> iron homeostasis and infectivity thereby answering an important question about how these parasites prevent accumulation of free iron to avoid cytotoxicity. In the Hamza lab, I gained a deeper understanding for host iron and heme metabolism pathways by studying the function of mouse and human HRG1.</p>
             <p>I started my independent career as an early-stage investigator in Brazil when I was competitively awarded a Young Investigator FAPESP grant.</p> 
             <ul role="list">
-             <li>Professor (USP/Brazil) - since May 2023.</li>
+             <li>Associate Professor (USP/Brazil) - since May 2023.</li>
              <li>Visiting Professor (UFABC/Brazil) - 2021-2023.</li>
              <li>Research Associate (USP/Brazil) - 2018-2023.</li>
              <li>Research Associate (UMD College Park/USA) - 2016-2018.</li>
