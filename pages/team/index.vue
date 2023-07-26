@@ -18,18 +18,17 @@ export default {
                 {
                     id: 1,
                     name: 'Maria Fernanda Laranjeira-Silva',
-                    role: 'Research Associate - USP',
-                    role2: 'Professor - UFABC',
+                    role: 'Associate Professor - USP',
                     lattesUrl: 'https://lattes.cnpq.br/5423200994091318',
                     linkedinUrl: 'https://www.linkedin.com/in/maria-fernanda-laranjeira-da-silva-91a14526/',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634053130/MFLS_FeLAB_foto_square_fryjvc.jpg',
-                    imageAlt: 'Maria Fernanda Laranjeira | Research Scientist @ USP Professor @ USP'                
+                    imageAlt: 'Maria Fernanda Laranjeira | Associate Professor @ USP'                
                 },     
                 {
                     id: 2,
                     name: 'Romario Lopes Boy',
-                    role: 'MS Student - USP',
+                    role: 'PhD Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/6780260214719643',
                     linkedinUrl: 'https://www.linkedin.com/in/rom%C3%A1rio-lopes-boy-44113674/',
                     imageUrl:
@@ -49,7 +48,7 @@ export default {
                 {
                     id: 4,
                     name: 'Lucas Felipe Almeida Athayde',
-                    role: 'MS Student - USP',
+                    role: 'PhD Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
                     //linkedinUrl: 'https://linkedin.com',
                     imageUrl:
