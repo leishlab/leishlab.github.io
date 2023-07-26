@@ -41,6 +41,13 @@ export default {
         return {
             papers : [
             {
+                "title": "Complete assembly, annotation of virulence genes and CRISPR editing of the genome of Leishmania amazonensis PH8 strain.",
+                "href": "http://dx.doi.org/10.1016/j.ygeno.2023.110661",
+                "description": "Wanessa Moreira Goes, Carlos Rodolpho Ferreira Brasil, João Luis Reis-Cunha, Anderson Coqueiro-dos-Santos, Viviane Grazielle-Silva, Júlia de Souza Reis, Tatiane Cristina Souto, Maria Fernanda Laranjeira-Silva, Daniella Castanheira Bartholomeu, Ana Paula Fernandes, Santuza Maria Ribeiro Teixeira",
+                "date": "September 2023",
+                "datetime": "September 2023"
+              },
+              {
                 "title": "Reporter gene systems: A powerful tool for Leishmania studies",
                 "href": "https://doi.org/10.1016/j.crmicr.2022.100165",
                 "description": "Romário L. Boy, Ahyun Hong, Juliana I. Aoki, Lucile Maria Floeter-Winter, Maria Fernanda Laranjeira-Silva",
