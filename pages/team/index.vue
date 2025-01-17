@@ -1,6 +1,6 @@
 <template>
   <GridPeopleRounded 
-      v-bind:people_h1="people_h1" v-bind:people_p="people_p" v-bind:people="people" 
+      v-bind:people_h1="people_h1" v-bind:people_p="people_p" v-bind:people="people" v-bind:alumni="alumni"
   />
 </template>
 
@@ -37,16 +37,6 @@ export default {
                 }, 
                 {
                     id: 3,
-                    name: 'Ahyun Avery Hong',
-                    role: 'PhD Student - USP',
-                    lattesUrl: 'http://lattes.cnpq.br/6341417420423481',
-                    linkedinUrl: 'https://www.linkedin.com/in/ahyun-avery-hong/',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634046365/Avery_feLAB_yc7iwc.jpg',
-                    imageAlt: 'Ahyun Avery Hong | PhD Student @ USP'                
-                },
-                {
-                    id: 4,
                     name: 'Lucas Felipe Almeida Athayde',
                     role: 'PhD Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
@@ -56,7 +46,7 @@ export default {
                     imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
                 },
                 {
-                    id: 5,
+                    id: 4,
                     name: 'Ricardo Andrade Zampieri',
                     role: 'Researcher - USP',
                     lattesUrl: 'http://lattes.cnpq.br/6456862196184646',
@@ -66,7 +56,7 @@ export default {
                     imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
                 },
                 {
-                    id: 6,
+                    id: 5,
                     name: 'Lucile Maria Floeter-Winter',
                     role: 'Professor - USP',
                     lattesUrl: 'http://lattes.cnpq.br/9468443035508043',
@@ -75,6 +65,15 @@ export default {
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634045145/Lucile_FeLAB_foto_xvtn8b.jpg',
                     imageAlt: 'Lucile Maria Floeter-Winter | Professor @ USP'                
                 }               
+            ], 
+            alumni : [
+            {
+                    id: 1,
+                    name: 'Ahyun Avery Hong',
+                    role: 'PhD Student - USP',
+                    lattesUrl: 'http://lattes.cnpq.br/6341417420423481',
+                    linkedinUrl: 'https://www.linkedin.com/in/ahyun-avery-hong/',             
+                },                
             ]
         }
     }
