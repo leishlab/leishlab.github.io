@@ -69,11 +69,19 @@ export default {
             alumni : [
             {
                     id: 1,
-                    name: 'Ahyun Avery Hong',
-                    role: 'PhD Student - USP',
-                    lattesUrl: 'http://lattes.cnpq.br/6341417420423481',
-                    linkedinUrl: 'https://www.linkedin.com/in/ahyun-avery-hong/',             
-                },                
+                    name: 'Ahyun Avery Hong PhD',
+                    //role: 'PhD Student - USP',
+                    //lattesUrl: 'http://lattes.cnpq.br/6341417420423481',
+                    //linkedinUrl: 'https://www.linkedin.com/in/ahyun-avery-hong/',             
+                }, 
+              {
+                    id: 2,
+                    name: 'Giovana Parreiro Undergraduate',       
+                }, 
+              {
+                    id: 3,
+                    name: 'Marco Antonio Undergraduate',
+                       }, 
             ]
         }
     }
