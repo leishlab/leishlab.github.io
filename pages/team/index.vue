@@ -45,8 +45,38 @@ export default {
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
                     imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
                 },
-                {
+              {
                     id: 4,
+                    name: 'João Moraes',
+                    role: 'MSc Student - USP',
+                    //lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
+                    //linkedinUrl: 'https://linkedin.com',
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
+                    //imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
+                },
+              {
+                    id: 5,
+                    name: 'Nassib Saab Daniel',
+                    role: 'Undergraduate Student',
+                    //lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
+                    //linkedinUrl: 'https://linkedin.com',
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
+                    //imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP'  
+                },
+              {
+                      id: 6,
+                    name: 'Victor Abade Ramos',
+                    role: 'Undergraduate Student',
+                    //lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
+                    //linkedinUrl: 'https://linkedin.com',
+                    //imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
+                    //imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP'   
+                },
+                {
+                    id: 7,
                     name: 'Ricardo Andrade Zampieri',
                     role: 'Researcher - USP',
                     lattesUrl: 'http://lattes.cnpq.br/6456862196184646',
@@ -56,7 +86,7 @@ export default {
                     imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
                 },
                 {
-                    id: 5,
+                    id: 8,
                     name: 'Lucile Maria Floeter-Winter',
                     role: 'Professor - USP',
                     lattesUrl: 'http://lattes.cnpq.br/9468443035508043',
@@ -66,8 +96,9 @@ export default {
                     imageAlt: 'Lucile Maria Floeter-Winter | Professor @ USP'                
                 }               
             ], 
+          
             alumni : [
-            {
+              {
                     id: 1,
                     name: 'Ahyun Avery Hong PhD',
                     //role: 'PhD Student - USP',
@@ -76,10 +107,18 @@ export default {
                 }, 
               {
                     id: 2,
-                    name: 'Giovana Parreiro Undergraduate',       
+                    name: 'Romario Lopes Boy MSc',
                 }, 
               {
                     id: 3,
+                    name: 'Lucas Felipe Almeida Athayde MSc',
+                }, 
+              {
+                    id: 4,
+                    name: 'Giovana Parreiro Undergraduate',       
+                }, 
+              {
+                    id: 5,
                     name: 'Marco Antonio Undergraduate',
                        }, 
             ]
