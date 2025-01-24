@@ -1,27 +1,20 @@
 {
-  "name": "homepage",
-  "version": "1.0.0",
+  "name": "nuxt-app",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxtjs/google-gtag": "^1.0.4",
-    "@nuxtjs/robots": "^2.5.0",
-    "@nuxtjs/sitemap": "^2.4.0",
-    "@tailwindcss/aspect-ratio": "^0.2.1",
-    "@tailwindcss/forms": "^0.3.3",
-    "@tailwindcss/typography": "^0.4.1",
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^3.15.2",
+    "vue": "latest",
+    "vue-router": "latest"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^4.2.0",
-    "postcss": "^8.3.5",
-    "push-dir": "^0.4.1"
+    "@nuxtjs/tailwindcss": "^6.13.1"
   }
 }

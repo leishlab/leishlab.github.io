@@ -1,20 +1,13 @@
-// tailwind.config.js
-const colors = require('tailwindcss/colors')
-  
-module.exports = {
-  // ...
-  theme: {
-    extend: {
-      colors: {
-        teal: colors.teal,
-        cyan: colors.cyan,
-      },
-    },
-  },
-  plugins: [
-    // ...
-    require('@tailwindcss/forms'),
-    require('@tailwindcss/aspect-ratio'),
-    require('@tailwindcss/typography')
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    './components/**/*.{vue,js,ts}',
+    './layouts/**/*.vue',
+    './pages/**/*.vue',
+    './app.vue'
   ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
 }
