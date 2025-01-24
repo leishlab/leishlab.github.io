@@ -115,11 +115,11 @@ export default {
                 }, 
               {
                     id: 4,
-                    name: 'Marco Antonio Undergrad 2020-2022',
+                    name: 'Marco Antonio Mendes Gomes Undergrad 2020-2022',
                        }, 
               {
                     id: 5,
-                    name: 'Giovana Parreiro Undergrad 2019-2022',       
+                    name: 'Giovana Parreira de Aquino Undergrad 2019-2022',       
                 }, 
               
             ]
