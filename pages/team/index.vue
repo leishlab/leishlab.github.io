@@ -100,27 +100,28 @@ export default {
             alumni : [
               {
                     id: 1,
-                    name: 'Ahyun Avery Hong PhD',
+                    name: 'Ahyun Avery Hong PhD 2024',
                     //role: 'PhD Student - USP',
                     //lattesUrl: 'http://lattes.cnpq.br/6341417420423481',
                     //linkedinUrl: 'https://www.linkedin.com/in/ahyun-avery-hong/',             
                 }, 
               {
                     id: 2,
-                    name: 'Romario Lopes Boy MSc',
+                    name: 'Lucas Felipe Almeida Athayde MSc 2023',
                 }, 
               {
                     id: 3,
-                    name: 'Lucas Felipe Almeida Athayde MSc',
+                    name: 'Romario Lopes Boy MSc 2022',
                 }, 
               {
                     id: 4,
-                    name: 'Giovana Parreiro Undergraduate',       
-                }, 
+                    name: 'Marco Antonio Undergrad 2020-2022',
+                       }, 
               {
                     id: 5,
-                    name: 'Marco Antonio Undergraduate',
-                       }, 
+                    name: 'Giovana Parreiro Undergrad 2019-2022',       
+                }, 
+              
             ]
         }
     }
