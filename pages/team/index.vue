@@ -71,9 +71,9 @@ export default {
                     role: 'Undergraduate Student',
                     lattesUrl: 'http://lattes.cnpq.br/6936461161231890',
                     linkedinUrl: 'https://www.linkedin.com/in/victor-abade-de-carvalho-ramos-640655343/',
-                    //imageUrl:
-                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
-                    //imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP'   
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1737744888/Foto_Victor_h46gry.jpg',
+                    imageAlt: 'Victor Abade Ramos | Undergrad Student @ USP'   
                 },
                 {
                     id: 7,
