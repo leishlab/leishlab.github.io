@@ -32,7 +32,7 @@ export default {
                     lattesUrl: 'http://lattes.cnpq.br/6780260214719643',
                     linkedinUrl: 'https://www.linkedin.com/in/rom%C3%A1rio-lopes-boy-44113674/',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544219/Romario_hfrf9m.jpg',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544753/Romario_hfrf9m.jpg',
                     imageAlt: 'Romario Lopes Boy | PhD Student @ USP' 
                 }, 
                 {
