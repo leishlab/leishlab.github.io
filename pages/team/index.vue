@@ -33,7 +33,7 @@ export default {
                     linkedinUrl: 'https://www.linkedin.com/in/rom%C3%A1rio-lopes-boy-44113674/',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1633544219/Romario_hfrf9m.jpg',
-                    imageAlt: 'Romario Lopes Boy | MS Student @ USP' 
+                    imageAlt: 'Romario Lopes Boy | PhD Student @ USP' 
                 }, 
                 {
                     id: 3,
@@ -43,7 +43,7 @@ export default {
                     //linkedinUrl: 'https://linkedin.com',
                     imageUrl:
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
-                    imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
+                    imageAlt: 'Lucas Felipe Almeida Athayde | PhD Student @ USP' 
                 },
               {
                     id: 4,
@@ -51,15 +51,15 @@ export default {
                     role: 'MSc Student - USP',
                     //lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
                     //linkedinUrl: 'https://linkedin.com',
-                    //imageUrl:
-                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
-                    //imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP' 
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1737739877/Foto_Joao_Moraes_qekua8.jpg',
+                    imageAlt: 'João Moraes | MSc Student @ USP' 
                 },
               {
                     id: 5,
                     name: 'Nassib Saab Daniel',
                     role: 'Undergraduate Student',
-                    //lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
+                    lattesUrl: 'http://lattes.cnpq.br/0357196525810493',
                     //linkedinUrl: 'https://linkedin.com',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
@@ -69,8 +69,8 @@ export default {
                       id: 6,
                     name: 'Victor Abade Ramos',
                     role: 'Undergraduate Student',
-                    //lattesUrl: 'http://lattes.cnpq.br/1590201488081535',
-                    //linkedinUrl: 'https://linkedin.com',
+                    lattesUrl: 'http://lattes.cnpq.br/6936461161231890',
+                    linkedinUrl: 'https://www.linkedin.com/in/victor-abade-de-carvalho-ramos-640655343/',
                     //imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
                     //imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP'   
