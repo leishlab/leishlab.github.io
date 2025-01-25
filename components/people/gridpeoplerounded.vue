@@ -52,7 +52,7 @@
                   <p v-if="person.role2" class="text-indigo-600">{{ person.role2 }}</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
-                  <li>
+                  <li v-if="person.linkedinUrl">
                     <a :href="person.linkedinUrl" target="_blank" class="text-gray-400 hover:text-gray-500">
                       <span class="sr-only">LinkedIn</span>
                       <svg class="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20">
