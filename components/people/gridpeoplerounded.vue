@@ -38,7 +38,7 @@
             </div>
           </li>
         </ul>
-        <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
+        <div v-if="alumni" class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">Alumni</h2>
         </div>
         <ul role="list" class="mx-auto space-y-16 sm:grid sm:grid-cols-2 sm:gap-16 sm:space-y-0 lg:grid-cols-3 lg:max-w-5xl">
@@ -52,7 +52,7 @@
                   <p v-if="person.role2" class="text-indigo-600">{{ person.role2 }}</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
-                  <li>
+                  <li v-if="person.linkedinUrl">
                     <a :href="person.linkedinUrl" target="_blank" class="text-gray-400 hover:text-gray-500">
                       <span class="sr-only">LinkedIn</span>
                       <svg class="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20">
@@ -106,7 +106,7 @@ export default {
         }, 
         alumni : {
             type: Array,
-            required: true,
+            required: false,
             default: () => [
                 {
                     id: 0,
