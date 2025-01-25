@@ -1,6 +1,6 @@
 <template>
   <GridPeopleRounded 
-      v-bind:people_h1="people_h1" v-bind:people_p="people_p" v-bind:people="people" 
+      v-bind:people_h1="people_h1" v-bind:people_p="people_p" v-bind:people="people" v-bind:alumni="null"
   />
 </template>
 
