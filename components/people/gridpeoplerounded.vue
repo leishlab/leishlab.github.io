@@ -38,7 +38,7 @@
             </div>
           </li>
         </ul>
-        <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
+        <div v-if="alumni" class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">Alumni</h2>
         </div>
         <ul role="list" class="mx-auto space-y-16 sm:grid sm:grid-cols-2 sm:gap-16 sm:space-y-0 lg:grid-cols-3 lg:max-w-5xl">
@@ -106,7 +106,7 @@ export default {
         }, 
         alumni : {
             type: Array,
-            required: true,
+            required: false,
             default: () => [
                 {
                     id: 0,
