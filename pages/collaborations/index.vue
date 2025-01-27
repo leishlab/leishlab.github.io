@@ -13,7 +13,7 @@ export default {
   data() {
         return {
             people_h1: 'Collaborations',
-            people_p: 'Principal Investigators that we work with',
+            people_p: 'Principal Investigators and Researchers that we work with',
             people : [
                 {
                     id: 1,
@@ -58,7 +58,7 @@ export default {
                  {
                     id: 5,
                     name: 'Juliana Ide Aoki',
-                    role: 'Researcher - Unicamp',
+                    role: 'Technologist - Butantan',
                     //lattesUrl: 'http://lattes.cnpq.br/3300018120206040',
                     linkedinUrl: 'https://www.linkedin.com/in/juliana-aoki-880669153/',
                     //imageUrl:
