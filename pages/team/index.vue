@@ -61,9 +61,9 @@ export default {
                     role: 'Undergraduate Student',
                     lattesUrl: 'http://lattes.cnpq.br/0357196525810493',
                     //linkedinUrl: 'https://linkedin.com',
-                    //imageUrl:
-                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
-                    //imageAlt: 'Lucas Felipe Almeida Athayde | MS Student @ USP'  
+                    imageUrl:
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1737994468/person_icon_bi7bbh.jpg',
+                    imageAlt: 'Nassib Saab Daniel | Undergrad Student @ USP'  
                 },
               {
                       id: 6,
