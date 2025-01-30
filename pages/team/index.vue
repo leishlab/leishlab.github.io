@@ -60,9 +60,9 @@ export default {
                     name: 'Nassib Saab Daniel',
                     role: 'Undergraduate Student',
                     lattesUrl: 'http://lattes.cnpq.br/0357196525810493',
-                    //linkedinUrl: 'https://linkedin.com',
+                    linkedinUrl: 'https://www.linkedin.com/in/nassib-saab-daniel-4ba0292ab/',
                     imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1737994468/person_icon_bi7bbh.jpg',
+                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1738256993/Foto_Nassib_heqwjm.jpg',
                     imageAlt: 'Nassib Saab Daniel | Undergrad Student @ USP'  
                 },
               {
