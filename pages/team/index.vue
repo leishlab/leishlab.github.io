@@ -45,7 +45,7 @@ export default {
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1634070695/Lucas_FeLAB_mjjmef.jpg',
                     imageAlt: 'Lucas Felipe Almeida Athayde | PhD Student @ USP' 
                 },
-              {
+                {
                     id: 4,
                     name: 'João Moraes',
                     role: 'MSc Student - USP',
@@ -55,7 +55,7 @@ export default {
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1737739877/Foto_Joao_Moraes_qekua8.jpg',
                     imageAlt: 'João Moraes | MSc Student @ USP' 
                 },
-              {
+                {
                     id: 5,
                     name: 'Nassib Saab Daniel',
                     role: 'Undergraduate Student',
