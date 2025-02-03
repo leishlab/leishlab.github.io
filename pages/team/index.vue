@@ -65,18 +65,8 @@ export default {
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1738256993/Foto_Nassib_heqwjm.jpg',
                     imageAlt: 'Nassib Saab Daniel | Undergrad Student @ USP'  
                 },
-              {
-                      id: 6,
-                    name: 'Victor Abade Ramos',
-                    role: 'Undergraduate Student',
-                    lattesUrl: 'http://lattes.cnpq.br/6936461161231890',
-                    linkedinUrl: 'https://www.linkedin.com/in/victor-abade-de-carvalho-ramos-640655343/',
-                    imageUrl:
-                    'https://res.cloudinary.com/dppi8hoxw/image/upload/v1737744888/Foto_Victor_h46gry.jpg',
-                    imageAlt: 'Victor Abade Ramos | Undergrad Student @ USP'   
-                },
                 {
-                    id: 7,
+                    id: 6,
                     name: 'Ricardo Andrade Zampieri',
                     role: 'Researcher - USP',
                     lattesUrl: 'http://lattes.cnpq.br/6456862196184646',
@@ -86,7 +76,7 @@ export default {
                     imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
                 },
                 {
-                    id: 8,
+                    id: 7,
                     name: 'Lucile Maria Floeter-Winter',
                     role: 'Professor - USP',
                     lattesUrl: 'http://lattes.cnpq.br/9468443035508043',
