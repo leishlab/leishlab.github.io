@@ -41,6 +41,13 @@ export default {
         return {
             papers : [
             {
+                "title": "Nutrient acquisition at the membrane interface: Trypanosomatids subverting host defenses.",
+                "href": "https://doi.org/10.1016/bs.ctm.2025.06.002",
+                "description": "Romário Lopes Boy, Lucas Felipe Almeida Athayde, Nassib Saab Daniel, Maria Fernanda Laranjeira-Silva",
+                "date": "July 2025",
+                "datetime": "July 2025"
+              },
+              {
                 "title": "Complete assembly, annotation of virulence genes and CRISPR editing of the genome of Leishmania amazonensis PH8 strain.",
                 "href": "http://dx.doi.org/10.1016/j.ygeno.2023.110661",
                 "description": "Wanessa Moreira Goes, Carlos Rodolpho Ferreira Brasil, João Luis Reis-Cunha, Anderson Coqueiro-dos-Santos, Viviane Grazielle-Silva, Júlia de Souza Reis, Tatiane Cristina Souto, Maria Fernanda Laranjeira-Silva, Daniella Castanheira Bartholomeu, Ana Paula Fernandes, Santuza Maria Ribeiro Teixeira",
