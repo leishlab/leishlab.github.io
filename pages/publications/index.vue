@@ -42,7 +42,7 @@ export default {
             papers : [
             {
                 "title": "Nutrient acquisition at the membrane interface: Trypanosomatids subverting host defenses.",
-                "href": "https://doi.org/10.1016/bs.ctm.2025.06.002",
+                "href": "https://authors.elsevier.com/a/1lRke_OBjqgiSY",
                 "description": "Romário Lopes Boy, Lucas Felipe Almeida Athayde, Nassib Saab Daniel, Maria Fernanda Laranjeira-Silva",
                 "date": "July 2025",
                 "datetime": "July 2025"
