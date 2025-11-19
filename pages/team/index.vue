@@ -18,7 +18,7 @@ export default {
                 {
                     id: 1,
                     name: 'Maria Fernanda Laranjeira-Silva',
-                    role: 'Associate Professor - USP',
+                    role: 'Assistant Professor - USP',
                     lattesUrl: 'https://lattes.cnpq.br/5423200994091318',
                     linkedinUrl: 'https://www.linkedin.com/in/maria-fernanda-laranjeira-da-silva-91a14526/',
                     imageUrl:
@@ -97,18 +97,10 @@ export default {
                 }, 
               {
                     id: 2,
-                    name: 'Lucas Felipe Almeida Athayde MSc 2023',
-                }, 
-              {
-                    id: 3,
-                    name: 'Romario Lopes Boy MSc 2022',
-                }, 
-              {
-                    id: 4,
                     name: 'Marco Antonio Mendes Gomes Undergrad 2020-2022',
                        }, 
               {
-                    id: 5,
+                    id: 3,
                     name: 'Giovana Parreira de Aquino Undergrad 2019-2022',       
                 }, 
               
