@@ -58,7 +58,7 @@ export default {
                 {
                     id: 5,
                     name: 'Nassib Saab Daniel',
-                    role: 'Undergraduate Student',
+                    role: 'MSc Student - USP',
                     lattesUrl: 'http://lattes.cnpq.br/0357196525810493',
                     linkedinUrl: 'https://www.linkedin.com/in/nassib-saab-daniel-4ba0292ab/',
                     imageUrl:
