@@ -45,7 +45,7 @@ export default {
                 "href": "https://doi.org/10.1371/journal.pntd.0014141",
                 "description": "Romário Lopes Boy, Ricardo Andrade Zampieri, Juliana Ide Aoki, Adriano Cappellazzo Coelho, Lucile Maria Floeter-Winter, Maria Fernanda Laranjeira-Silva",
                 "date": "April 2026",
-                "datetime": "April 202"
+                "datetime": "April 2026"
               },
               {
                 "title": "Nutrient acquisition at the membrane interface: Trypanosomatids subverting host defenses.",
