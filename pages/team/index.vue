@@ -65,8 +65,27 @@ export default {
                     'https://res.cloudinary.com/dppi8hoxw/image/upload/v1738256993/Foto_Nassib_heqwjm.jpg',
                     imageAlt: 'Nassib Saab Daniel | Undergrad Student @ USP'  
                 },
-                {
+              {
                     id: 6,
+                    name: 'Giovanna de Luca Brilhante',
+                    role: 'Undergrad Student - USP',
+                    lattesUrl: 'http://lattes.cnpq.br/6109831920169995',
+                    //linkedinUrl: 'https://www.linkedin.com/in/nassib-saab-daniel-4ba0292ab/',
+                    imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1738256993/Foto_Nassib_heqwjm.jpg',
+                    imageAlt: 'Giovanna de Luca Brilhante | Undergrad Student @ USP'  
+                },{
+                    id: 7,
+                    name: 'Gabriel Ataide Rodrigues',
+                    role: 'Undergrad Student - USP',
+                    lattesUrl: 'http://lattes.cnpq.br/5972638076530508',
+                    //linkedinUrl: 'https://www.linkedin.com/in/nassib-saab-daniel-4ba0292ab/',
+                    imageUrl:
+                    //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1738256993/Foto_Nassib_heqwjm.jpg',
+                    imageAlt: 'Gabriel Ataide Rodrigues | Undergrad Student @ USP'  
+                },
+                {
+                    id: 8,
                     name: 'Ricardo Andrade Zampieri',
                     role: 'Researcher - USP',
                     lattesUrl: 'http://lattes.cnpq.br/6456862196184646',
@@ -76,7 +95,7 @@ export default {
                     imageAlt: 'Ricardo Andrade Zampieri | Researcher @ USP'  
                 },
                 {
-                    id: 7,
+                    id: 9,
                     name: 'Lucile Maria Floeter-Winter',
                     role: 'Professor - USP',
                     lattesUrl: 'http://lattes.cnpq.br/9468443035508043',
