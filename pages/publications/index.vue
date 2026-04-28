@@ -41,6 +41,13 @@ export default {
         return {
             papers : [
             {
+                "title": "Glycosomal Aquaglyceroporin 1 dual role in iron homeostasis and antimony susceptibility in Leishmania amazonensis.",
+                "href": "https://doi.org/10.1371/journal.pntd.0014141",
+                "description": "Romário Lopes Boy, Ricardo Andrade Zampieri, Juliana Ide Aoki, Adriano Cappellazzo Coelho, Lucile Maria Floeter-Winter, Maria Fernanda Laranjeira-Silva",
+                "date": "April 2026",
+                "datetime": "April 202"
+              },
+              {
                 "title": "Nutrient acquisition at the membrane interface: Trypanosomatids subverting host defenses.",
                 "href": "https://authors.elsevier.com/a/1lRke_OBjqgiSY",
                 "description": "Romário Lopes Boy, Lucas Felipe Almeida Athayde, Nassib Saab Daniel, Maria Fernanda Laranjeira-Silva",
