@@ -74,7 +74,8 @@ export default {
                     imageUrl:
                     //'https://res.cloudinary.com/dppi8hoxw/image/upload/v1738256993/Foto_Nassib_heqwjm.jpg',
                     imageAlt: 'Giovanna de Luca Brilhante | Undergrad Student @ USP'  
-                },{
+                },
+              {
                     id: 7,
                     name: 'Gabriel Ataide Rodrigues',
                     role: 'Undergrad Student - USP',
