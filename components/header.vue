@@ -8,7 +8,7 @@
     >
       <!--logo-->
       <NuxtLink :to='"/"' class="md:px-20">
-        <Logo v-bind:color="logo_color"/>
+        <Logo :color="logo_color"/>
       </NuxtLink>
 
       <!--navigation-->
@@ -55,8 +55,8 @@
 import Logo from '@/components/logo';
 export default {
   name: "Header",
-  components:{
-        Logo
+  components: {
+    Logo
   },
   data() {
     return {

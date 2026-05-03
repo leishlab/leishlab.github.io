@@ -1,7 +1,7 @@
 <template>
     <div class="space-y-8 xl:col-span-1">
         <NuxtLink :to='"/"'>
-            <Logo v-bind:color="logo_color"/>
+            <Logo :color="logo_color"/>
         </NuxtLink>
         <p class="text-gray-500 text-base">{{tagline}}</p>
         <div class="flex space-x-6">
@@ -33,8 +33,8 @@
 import Logo from '@/components/logo';
 export default {
     name: "FooterContact",
-    components:{
-        Logo
+    components: {
+      Logo
     },
     data() {
         return {
