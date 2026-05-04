@@ -78,7 +78,7 @@ export default {
           lattesUrl: "http://lattes.cnpq.br/6109831920169995",
           //linkedinUrl: 'https://www.linkedin.com/in/nassib-saab-daniel-4ba0292ab/',
           imageUrl:
-            "https://res.cloudinary.com/dppi8hoxw/image/upload/v1777905576/Giovana_IC2026_foto_site_b14j7l.tiff",
+            "https://res.cloudinary.com/dppi8hoxw/image/upload/v1777905863/Giovana_IC2026_foto_site_lfg1sr.jpg",
           imageAlt: "Giovanna de Luca Brilhante | Undergrad Student @ USP",
         },
         {
@@ -88,7 +88,7 @@ export default {
           lattesUrl: "http://lattes.cnpq.br/5972638076530508",
           //linkedinUrl: 'https://www.linkedin.com/in/nassib-saab-daniel-4ba0292ab/',
           imageUrl:
-            "https://res.cloudinary.com/dppi8hoxw/image/upload/v1777905576/Gabriel_IC2026_foto_site_zzsism.tiff",
+            "https://res.cloudinary.com/dppi8hoxw/image/upload/v1777905870/Gabriel_IC2026_foto_site_yc8gin.jpg",
           imageAlt: "Gabriel Ataide Rodrigues | Undergrad Student @ USP",
         },
         {
